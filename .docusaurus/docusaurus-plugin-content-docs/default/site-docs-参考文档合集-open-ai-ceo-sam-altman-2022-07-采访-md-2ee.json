@@ -1,0 +1,24 @@
+{
+  "unversionedId": "参考文档合集/OpenAI-CEO-Sam-Altman-2022-07-采访",
+  "id": "参考文档合集/OpenAI-CEO-Sam-Altman-2022-07-采访",
+  "title": "OpenAI CEO Sam Altman 2022.07 采访",
+  "description": "原视频链接：https://youtu.be/WHoWGNQRXb0",
+  "source": "@site/docs/参考文档合集/OpenAI-CEO-Sam-Altman-2022-07-采访.md",
+  "sourceDirName": "参考文档合集",
+  "slug": "/参考文档合集/OpenAI-CEO-Sam-Altman-2022-07-采访",
+  "permalink": "/docs/参考文档合集/OpenAI-CEO-Sam-Altman-2022-07-采访",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/参考文档合集/OpenAI-CEO-Sam-Altman-2022-07-采访.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NLP 模型发展简要史：从 bags of words 到 Transformer 家族",
+    "permalink": "/docs/参考文档合集/NLP-模型发展简要史-从-bags-of-words-到-Transformer-家族"
+  },
+  "next": {
+    "title": "Transformer 论文逐段精度",
+    "permalink": "/docs/参考文档合集/Transformer-论文逐段精度"
+  }
+}

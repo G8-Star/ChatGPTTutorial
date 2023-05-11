@@ -1,0 +1,24 @@
+{
+  "unversionedId": "应用场景/QA-常见问题与回答",
+  "id": "应用场景/QA-常见问题与回答",
+  "title": "Q&A：常见问题与回答",
+  "description": "你可以通过阅读当前模块快速了解本章重点内容。",
+  "source": "@site/docs/4.应用场景/QA-常见问题与回答.md",
+  "sourceDirName": "4.应用场景",
+  "slug": "/应用场景/QA-常见问题与回答",
+  "permalink": "/docs/应用场景/QA-常见问题与回答",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/4.应用场景/QA-常见问题与回答.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "4.3 更多场景展望",
+    "permalink": "/docs/应用场景/4.3-更多场景展望"
+  },
+  "next": {
+    "title": "5. 实操技巧",
+    "permalink": "/docs/category/5-实操技巧"
+  }
+}

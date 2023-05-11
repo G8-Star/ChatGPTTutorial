@@ -1,0 +1,24 @@
+{
+  "unversionedId": "行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/README",
+  "id": "行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/README",
+  "title": "3.3.  产业链及相关公司",
+  "description": "有一个业内普遍认同的公式，叫做：",
+  "source": "@site/docs/3.行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/README.md",
+  "sourceDirName": "3.行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si",
+  "slug": "/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/",
+  "permalink": "/docs/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPT Tutorial/edit/main/docs/3.行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "3.2. 行业概览与发展历程",
+    "permalink": "/docs/行业观察/3.2.-行业概览与发展历程"
+  },
+  "next": {
+    "title": "上游：算力与数据",
+    "permalink": "/docs/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/上游-算力与数据"
+  }
+}

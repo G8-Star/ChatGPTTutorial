@@ -1,0 +1,16 @@
+{
+  "title": "1. 基础概念",
+  "description": "基础概念",
+  "slug": "/category/1-基础概念",
+  "permalink": "/docs/category/1-基础概念",
+  "navigation": {
+    "previous": {
+      "title": "ChatGPT 教程",
+      "permalink": "/docs/"
+    },
+    "next": {
+      "title": "1.1. ChatGPT",
+      "permalink": "/docs/基础概念/1.1.-chatgpt"
+    }
+  }
+}

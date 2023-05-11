@@ -1,0 +1,24 @@
+{
+  "unversionedId": "实操技巧/5.1.-Prompt-gong-cheng/README",
+  "id": "实操技巧/5.1.-Prompt-gong-cheng/README",
+  "title": "5.1. Prompt 工程",
+  "description": "入门概念",
+  "source": "@site/docs/5.实操技巧/5.1.-Prompt-gong-cheng/README.md",
+  "sourceDirName": "5.实操技巧/5.1.-Prompt-gong-cheng",
+  "slug": "/实操技巧/5.1.-Prompt-gong-cheng/",
+  "permalink": "/docs/实操技巧/5.1.-Prompt-gong-cheng/",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPT Tutorial/edit/main/docs/5.实操技巧/5.1.-Prompt-gong-cheng/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "5. 实操技巧",
+    "permalink": "/docs/category/5-实操技巧"
+  },
+  "next": {
+    "title": "5.1.1. Prompt 从 0 到 1",
+    "permalink": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-basic-prompt-introduction"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "实操技巧/5.1.-Prompt-gong-cheng/-advanced-skills",
+  "id": "实操技巧/5.1.-Prompt-gong-cheng/-advanced-skills",
+  "title": "5.1.5. 更多高阶技巧",
+  "description": "ReAct",
+  "source": "@site/docs/5.实操技巧/5.1.-Prompt-gong-cheng/-advanced-skills.md",
+  "sourceDirName": "5.实操技巧/5.1.-Prompt-gong-cheng",
+  "slug": "/实操技巧/5.1.-Prompt-gong-cheng/-advanced-skills",
+  "permalink": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-advanced-skills",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/5.实操技巧/5.1.-Prompt-gong-cheng/-advanced-skills.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "5.1.4. Chain-of-Thought Prompting",
+    "permalink": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-chain-of-thought-prompting"
+  },
+  "next": {
+    "title": "5.2. LangChain/GPT index",
+    "permalink": "/docs/实操技巧/5.2.-langchain-gpt-index"
+  }
+}

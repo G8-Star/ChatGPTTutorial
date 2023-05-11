@@ -1,0 +1,24 @@
+{
+  "unversionedId": "行业观察/3.2.-行业概览与发展历程",
+  "id": "行业观察/3.2.-行业概览与发展历程",
+  "title": "3.2. 行业概览与发展历程",
+  "description": "首先我们想下一个可能略有些鲁莽的推断：ChatGPT 的到来意味着新一代的人与信息交互方式的开启。",
+  "source": "@site/docs/3.行业观察/3.2.-行业概览与发展历程.md",
+  "sourceDirName": "3.行业观察",
+  "slug": "/行业观察/3.2.-行业概览与发展历程",
+  "permalink": "/docs/行业观察/3.2.-行业概览与发展历程",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPT Tutorial/edit/main/docs/3.行业观察/3.2.-行业概览与发展历程.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "3.1. 最新新闻（每日更新）",
+    "permalink": "/docs/行业观察/3.1.-最新新闻-每日更新"
+  },
+  "next": {
+    "title": "3.3.  产业链及相关公司",
+    "permalink": "/docs/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "参考文档合集/红杉资本-生成式人工智能-创造一个全新的世界",
+  "id": "参考文档合集/红杉资本-生成式人工智能-创造一个全新的世界",
+  "title": "红杉资本：生成式人工智能：创造一个全新的世界",
+  "description": "快速一览",
+  "source": "@site/docs/参考文档合集/红杉资本-生成式人工智能-创造一个全新的世界.md",
+  "sourceDirName": "参考文档合集",
+  "slug": "/参考文档合集/红杉资本-生成式人工智能-创造一个全新的世界",
+  "permalink": "/docs/参考文档合集/红杉资本-生成式人工智能-创造一个全新的世界",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/参考文档合集/红杉资本-生成式人工智能-创造一个全新的世界.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "数据挖掘、机器学习、自然语言处理这三者是什么关系？这几个怎么入门啊？ - White Pillow的回答 - 知乎",
+    "permalink": "/docs/参考文档合集/数据挖掘-机器学习-自然语言处理这三者是什么关系-这几个怎么入门啊"
+  }
+}

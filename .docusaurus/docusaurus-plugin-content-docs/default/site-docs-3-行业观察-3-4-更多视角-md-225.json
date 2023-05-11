@@ -1,0 +1,24 @@
+{
+  "unversionedId": "行业观察/3.4.-更多视角",
+  "id": "行业观察/3.4.-更多视角",
+  "title": "3.4. 更多视角",
+  "description": "",
+  "source": "@site/docs/3.行业观察/3.4.-更多视角.md",
+  "sourceDirName": "3.行业观察",
+  "slug": "/行业观察/3.4.-更多视角",
+  "permalink": "/docs/行业观察/3.4.-更多视角",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPT Tutorial/edit/main/docs/3.行业观察/3.4.-更多视角.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "下游：场景落地",
+    "permalink": "/docs/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/下游-场景落地"
+  },
+  "next": {
+    "title": "Q&A：常见问题与回答",
+    "permalink": "/docs/行业观察/QA-常见问题与回答"
+  }
+}

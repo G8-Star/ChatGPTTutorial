@@ -1,0 +1,25 @@
+{
+  "unversionedId": "更多阅读/麻瓜读论文系列/bloomberg-bloomberggpt",
+  "id": "更多阅读/麻瓜读论文系列/bloomberg-bloomberggpt",
+  "title": "【应用】BloombergGPT：金融领域的大语言模型",
+  "description": "2023 年 3 月 31 日，金融领域领头羊之一的彭博社（Bloomberg）发布了专门为金融领域打造的大型语言模型(LLM)——BloombergGPT，它对于 GPT 的应用也许不是最佳答案，但是交卷最快的答案，也许我们可以从这份答案里略窥一二。",
+  "source": "@site/docs/6.更多阅读/麻瓜读论文系列/20230420-bloomberg-bloomberggpt.md",
+  "sourceDirName": "6.更多阅读/麻瓜读论文系列",
+  "slug": "/更多阅读/麻瓜读论文系列/bloomberg-bloomberggpt",
+  "permalink": "/docs/更多阅读/麻瓜读论文系列/bloomberg-bloomberggpt",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/6.更多阅读/麻瓜读论文系列/20230420-bloomberg-bloomberggpt.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 20230420,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "【麻瓜读论文】LLM 升级到 AGI 的可能必备 Prompt 框架 —— ReAct",
+    "permalink": "/docs/更多阅读/麻瓜读论文系列/google-react"
+  },
+  "next": {
+    "title": "7. 其他",
+    "permalink": "/docs/category/7-其他"
+  }
+}

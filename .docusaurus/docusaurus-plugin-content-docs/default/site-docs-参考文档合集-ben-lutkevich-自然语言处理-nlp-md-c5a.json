@@ -1,0 +1,26 @@
+{
+  "unversionedId": "参考文档合集/Ben-Lutkevich-自然语言处理-NLP",
+  "id": "参考文档合集/Ben-Lutkevich-自然语言处理-NLP",
+  "title": "Ben Lutkevich：自然语言处理 NLP",
+  "description": "扩展阅读",
+  "source": "@site/docs/参考文档合集/Ben-Lutkevich-自然语言处理-NLP.md",
+  "sourceDirName": "参考文档合集",
+  "slug": "/参考文档合集/Ben-Lutkevich-自然语言处理-NLP",
+  "permalink": "/docs/参考文档合集/Ben-Lutkevich-自然语言处理-NLP",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/参考文档合集/Ben-Lutkevich-自然语言处理-NLP.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "扩展阅读"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "7.2. 实用链接",
+    "permalink": "/docs/其他/6.2.-实用链接"
+  },
+  "next": {
+    "title": "NLP 模型发展简要史：从 bags of words 到 Transformer 家族",
+    "permalink": "/docs/参考文档合集/NLP-模型发展简要史-从-bags-of-words-到-Transformer-家族"
+  }
+}

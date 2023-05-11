@@ -1,0 +1,24 @@
+{
+  "unversionedId": "README",
+  "id": "README",
+  "title": "ChatGPT 教程",
+  "description": "Spark闪闪团队出品：ChatGPT 从0到1 系统性学习资料汇总",
+  "source": "@site/docs/README.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/docs/",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPT Tutorial/edit/main/docs/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "description": "Spark闪闪团队出品：ChatGPT 从0到1 系统性学习资料汇总"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "1. 基础概念",
+    "permalink": "/docs/category/1-基础概念"
+  }
+}

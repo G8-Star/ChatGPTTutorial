@@ -1,0 +1,24 @@
+{
+  "unversionedId": "应用场景/4.3-更多场景展望",
+  "id": "应用场景/4.3-更多场景展望",
+  "title": "4.3 更多场景展望",
+  "description": "金融",
+  "source": "@site/docs/4.应用场景/4.3-更多场景展望.md",
+  "sourceDirName": "4.应用场景",
+  "slug": "/应用场景/4.3-更多场景展望",
+  "permalink": "/docs/应用场景/4.3-更多场景展望",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPT Tutorial/edit/main/docs/4.应用场景/4.3-更多场景展望.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "4.2. 民间热门应用",
+    "permalink": "/docs/应用场景/4.2.-民间热门应用"
+  },
+  "next": {
+    "title": "Q&A：常见问题与回答",
+    "permalink": "/docs/应用场景/QA-常见问题与回答"
+  }
+}

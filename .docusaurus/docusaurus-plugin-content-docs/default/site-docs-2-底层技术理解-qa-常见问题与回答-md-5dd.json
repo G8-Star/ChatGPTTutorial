@@ -1,0 +1,24 @@
+{
+  "unversionedId": "底层技术理解/QA-常见问题与回答",
+  "id": "底层技术理解/QA-常见问题与回答",
+  "title": "Q&A：常见问题与回答",
+  "description": "你可以通过阅读当前模块快速了解本章重点内容。",
+  "source": "@site/docs/2.底层技术理解/QA-常见问题与回答.md",
+  "sourceDirName": "2.底层技术理解",
+  "slug": "/底层技术理解/QA-常见问题与回答",
+  "permalink": "/docs/底层技术理解/QA-常见问题与回答",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPT Tutorial/edit/main/docs/2.底层技术理解/QA-常见问题与回答.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2.4. 新范式时代：LLM、AGI 与展望（2020 -）",
+    "permalink": "/docs/底层技术理解/2.4.-新范式时代"
+  },
+  "next": {
+    "title": "3. 行业观察",
+    "permalink": "/docs/category/3-行业观察"
+  }
+}

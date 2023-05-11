@@ -1,0 +1,627 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "ChatGPT 教程",
+        "href": "/docs/",
+        "docId": "README"
+      },
+      {
+        "type": "category",
+        "label": "1. 基础概念",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "1.1. ChatGPT",
+            "href": "/docs/基础概念/1.1.-chatgpt",
+            "docId": "基础概念/1.1.-chatgpt"
+          },
+          {
+            "type": "link",
+            "label": "1.2. 功能简介及市场反响",
+            "href": "/docs/基础概念/1.2.-功能简介及市场反响",
+            "docId": "基础概念/1.2.-功能简介及市场反响"
+          },
+          {
+            "type": "link",
+            "label": "1.3. 开始使用",
+            "href": "/docs/基础概念/1.3.-开始使用",
+            "docId": "基础概念/1.3.-开始使用"
+          },
+          {
+            "type": "link",
+            "label": "Q&A：常见问题与回答",
+            "href": "/docs/基础概念/QA-常见问题与回答",
+            "docId": "基础概念/QA-常见问题与回答"
+          }
+        ],
+        "href": "/docs/category/1-基础概念"
+      },
+      {
+        "type": "category",
+        "label": "2. 底层技术理解",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "2.1. 【小白向】详细原理解释",
+            "href": "/docs/底层技术理解/2.1.-小白向的详细原理解释",
+            "docId": "底层技术理解/2.1.-小白向的详细原理解释"
+          },
+          {
+            "type": "link",
+            "label": "2.1. 自然语言处理（NLP, Natural Language Processing）",
+            "href": "/docs/底层技术理解/2.2.-自然语言处理",
+            "docId": "底层技术理解/2.2.-自然语言处理"
+          },
+          {
+            "type": "link",
+            "label": "2.3. 从 GPT1 到 GPT4",
+            "href": "/docs/底层技术理解/2.3.-从-GPT1-到-GPT4",
+            "docId": "底层技术理解/2.3.-从-GPT1-到-GPT4"
+          },
+          {
+            "type": "link",
+            "label": "2.4. 新范式时代：LLM、AGI 与展望（2020 -）",
+            "href": "/docs/底层技术理解/2.4.-新范式时代",
+            "docId": "底层技术理解/2.4.-新范式时代"
+          },
+          {
+            "type": "link",
+            "label": "Q&A：常见问题与回答",
+            "href": "/docs/底层技术理解/QA-常见问题与回答",
+            "docId": "底层技术理解/QA-常见问题与回答"
+          }
+        ],
+        "href": "/docs/category/2-底层技术理解"
+      },
+      {
+        "type": "category",
+        "label": "3. 行业观察",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "3.1. 最新新闻（每日更新）",
+            "href": "/docs/行业观察/3.1.-最新新闻-每日更新",
+            "docId": "行业观察/3.1.-最新新闻-每日更新"
+          },
+          {
+            "type": "link",
+            "label": "3.2. 行业概览与发展历程",
+            "href": "/docs/行业观察/3.2.-行业概览与发展历程",
+            "docId": "行业观察/3.2.-行业概览与发展历程"
+          },
+          {
+            "type": "category",
+            "label": "3.3.  产业链及相关公司",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "上游：算力与数据",
+                "href": "/docs/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/上游-算力与数据",
+                "docId": "行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/上游-算力与数据"
+              },
+              {
+                "type": "link",
+                "label": "中游：模型",
+                "href": "/docs/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/中游-模型",
+                "docId": "行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/中游-模型"
+              },
+              {
+                "type": "link",
+                "label": "下游：场景落地",
+                "href": "/docs/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/下游-场景落地",
+                "docId": "行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/下游-场景落地"
+              }
+            ],
+            "href": "/docs/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/"
+          },
+          {
+            "type": "link",
+            "label": "3.4. 更多视角",
+            "href": "/docs/行业观察/3.4.-更多视角",
+            "docId": "行业观察/3.4.-更多视角"
+          },
+          {
+            "type": "link",
+            "label": "Q&A：常见问题与回答",
+            "href": "/docs/行业观察/QA-常见问题与回答",
+            "docId": "行业观察/QA-常见问题与回答"
+          }
+        ],
+        "href": "/docs/category/3-行业观察"
+      },
+      {
+        "type": "category",
+        "label": "4. 应用场景",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "4.1 官方应用",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "4.1.1 官网案例",
+                "href": "/docs/应用场景/4.1.-官方应用/4.1.1.-官网应用",
+                "docId": "应用场景/4.1.-官方应用/4.1.1.-官网应用"
+              }
+            ],
+            "href": "/docs/应用场景/4.1.-官方应用/"
+          },
+          {
+            "type": "link",
+            "label": "4.2. 民间热门应用",
+            "href": "/docs/应用场景/4.2.-民间热门应用",
+            "docId": "应用场景/4.2.-民间热门应用"
+          },
+          {
+            "type": "link",
+            "label": "4.3 更多场景展望",
+            "href": "/docs/应用场景/4.3-更多场景展望",
+            "docId": "应用场景/4.3-更多场景展望"
+          },
+          {
+            "type": "link",
+            "label": "Q&A：常见问题与回答",
+            "href": "/docs/应用场景/QA-常见问题与回答",
+            "docId": "应用场景/QA-常见问题与回答"
+          }
+        ],
+        "href": "/docs/category/4-应用场景"
+      },
+      {
+        "type": "category",
+        "label": "5. 实操技巧",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "5.1. Prompt 工程",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "5.1.1. Prompt 从 0 到 1",
+                "href": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-basic-prompt-introduction",
+                "docId": "实操技巧/5.1.-Prompt-gong-cheng/-basic-prompt-introduction"
+              },
+              {
+                "type": "link",
+                "label": "5.1.2. Prompt 技巧",
+                "href": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-prompt-skills",
+                "docId": "实操技巧/5.1.-Prompt-gong-cheng/-prompt-skills"
+              },
+              {
+                "type": "link",
+                "label": "5.1.3. Zero/Few-Shot Prompting",
+                "href": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-zero-few-shot-prompting",
+                "docId": "实操技巧/5.1.-Prompt-gong-cheng/-zero-few-shot-prompting"
+              },
+              {
+                "type": "link",
+                "label": "5.1.4. Chain-of-Thought Prompting",
+                "href": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-chain-of-thought-prompting",
+                "docId": "实操技巧/5.1.-Prompt-gong-cheng/-chain-of-thought-prompting"
+              },
+              {
+                "type": "link",
+                "label": "5.1.5. 更多高阶技巧",
+                "href": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-advanced-skills",
+                "docId": "实操技巧/5.1.-Prompt-gong-cheng/-advanced-skills"
+              }
+            ],
+            "href": "/docs/实操技巧/5.1.-Prompt-gong-cheng/"
+          },
+          {
+            "type": "link",
+            "label": "5.2. LangChain/GPT index",
+            "href": "/docs/实操技巧/5.2.-langchain-gpt-index",
+            "docId": "实操技巧/5.2.-langchain-gpt-index"
+          },
+          {
+            "type": "link",
+            "label": "5.3. 插件",
+            "href": "/docs/实操技巧/5.3.-插件",
+            "docId": "实操技巧/5.3.-插件"
+          }
+        ],
+        "href": "/docs/category/5-实操技巧"
+      },
+      {
+        "type": "category",
+        "label": "6. 其他",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "7.1. 名词解释",
+            "href": "/docs/其他/6.1.-名词解释",
+            "docId": "其他/6.1.-名词解释"
+          },
+          {
+            "type": "link",
+            "label": "7.2. 实用链接",
+            "href": "/docs/其他/6.2.-实用链接",
+            "docId": "其他/6.2.-实用链接"
+          }
+        ],
+        "href": "/docs/category/6-其他"
+      },
+      {
+        "type": "category",
+        "label": "参考文档合集",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Ben Lutkevich：自然语言处理 NLP",
+            "href": "/docs/参考文档合集/Ben-Lutkevich-自然语言处理-NLP",
+            "docId": "参考文档合集/Ben-Lutkevich-自然语言处理-NLP"
+          },
+          {
+            "type": "link",
+            "label": "NLP 模型发展简要史：从 bags of words 到 Transformer 家族",
+            "href": "/docs/参考文档合集/NLP-模型发展简要史-从-bags-of-words-到-Transformer-家族",
+            "docId": "参考文档合集/NLP-模型发展简要史-从-bags-of-words-到-Transformer-家族"
+          },
+          {
+            "type": "link",
+            "label": "OpenAI CEO Sam Altman 2022.07 采访",
+            "href": "/docs/参考文档合集/OpenAI-CEO-Sam-Altman-2022-07-采访",
+            "docId": "参考文档合集/OpenAI-CEO-Sam-Altman-2022-07-采访"
+          },
+          {
+            "type": "link",
+            "label": "Transformer 论文逐段精度",
+            "href": "/docs/参考文档合集/Transformer-论文逐段精度",
+            "docId": "参考文档合集/Transformer-论文逐段精度"
+          },
+          {
+            "type": "link",
+            "label": "Wolfram：ChatGPT在做什么...以及为什么有效?",
+            "href": "/docs/参考文档合集/Wolfram：ChatGPT在做什么...以及它为什么有效",
+            "docId": "参考文档合集/Wolfram：ChatGPT在做什么...以及它为什么有效"
+          },
+          {
+            "type": "link",
+            "label": "谷歌：链式思维提示(COT Prompting)引发大型语言模型的推理",
+            "href": "/docs/参考文档合集/google-chain-of-thought-paper",
+            "docId": "参考文档合集/google-chain-of-thought-paper"
+          },
+          {
+            "type": "link",
+            "label": "PDF：Emergent Abilities of Large Language Models",
+            "href": "/docs/参考文档合集/pdf-emergent-abilities-of-large-language-models",
+            "docId": "参考文档合集/pdf-emergent-abilities-of-large-language-models"
+          },
+          {
+            "type": "link",
+            "label": "PDF：Sparks of Artificial General Intelligence: Early experiments with GPT-4",
+            "href": "/docs/参考文档合集/pdf-sparks-of-artificial-general-intelligence-early-experiments-with-gpt-4",
+            "docId": "参考文档合集/pdf-sparks-of-artificial-general-intelligence-early-experiments-with-gpt-4"
+          },
+          {
+            "type": "link",
+            "label": "【强烈推荐】GPT，GPT-2，GPT-3 论文精读",
+            "href": "/docs/参考文档合集/强烈推荐-GPT-GPT-2-GPT-3-论文精读",
+            "docId": "参考文档合集/强烈推荐-GPT-GPT-2-GPT-3-论文精读"
+          },
+          {
+            "type": "link",
+            "label": "【强烈推荐】通向AGI之路：大型语言模型（LLM）技术精要",
+            "href": "/docs/参考文档合集/强烈推荐-通向AGI之路-大型语言模型-LLM-技术精要",
+            "docId": "参考文档合集/强烈推荐-通向AGI之路-大型语言模型-LLM-技术精要"
+          },
+          {
+            "type": "link",
+            "label": "数据挖掘、机器学习、自然语言处理这三者是什么关系？这几个怎么入门啊？ - White Pillow的回答 - 知乎",
+            "href": "/docs/参考文档合集/数据挖掘-机器学习-自然语言处理这三者是什么关系-这几个怎么入门啊",
+            "docId": "参考文档合集/数据挖掘-机器学习-自然语言处理这三者是什么关系-这几个怎么入门啊"
+          },
+          {
+            "type": "link",
+            "label": "红杉资本：生成式人工智能：创造一个全新的世界",
+            "href": "/docs/参考文档合集/红杉资本-生成式人工智能-创造一个全新的世界",
+            "docId": "参考文档合集/红杉资本-生成式人工智能-创造一个全新的世界"
+          }
+        ]
+      }
+    ]
+  },
+  "docs": {
+    "参考文档合集/红杉资本-生成式人工智能-创造一个全新的世界": {
+      "id": "参考文档合集/红杉资本-生成式人工智能-创造一个全新的世界",
+      "title": "红杉资本：生成式人工智能：创造一个全新的世界",
+      "description": "快速一览",
+      "sidebar": "tutorialSidebar"
+    },
+    "参考文档合集/强烈推荐-通向AGI之路-大型语言模型-LLM-技术精要": {
+      "id": "参考文档合集/强烈推荐-通向AGI之路-大型语言模型-LLM-技术精要",
+      "title": "【强烈推荐】通向AGI之路：大型语言模型（LLM）技术精要",
+      "description": "扩展阅读",
+      "sidebar": "tutorialSidebar"
+    },
+    "参考文档合集/强烈推荐-GPT-GPT-2-GPT-3-论文精读": {
+      "id": "参考文档合集/强烈推荐-GPT-GPT-2-GPT-3-论文精读",
+      "title": "【强烈推荐】GPT，GPT-2，GPT-3 论文精读",
+      "description": "扩展阅读",
+      "sidebar": "tutorialSidebar"
+    },
+    "参考文档合集/数据挖掘-机器学习-自然语言处理这三者是什么关系-这几个怎么入门啊": {
+      "id": "参考文档合集/数据挖掘-机器学习-自然语言处理这三者是什么关系-这几个怎么入门啊",
+      "title": "数据挖掘、机器学习、自然语言处理这三者是什么关系？这几个怎么入门啊？ - White Pillow的回答 - 知乎",
+      "description": "扩展阅读",
+      "sidebar": "tutorialSidebar"
+    },
+    "参考文档合集/Ben-Lutkevich-自然语言处理-NLP": {
+      "id": "参考文档合集/Ben-Lutkevich-自然语言处理-NLP",
+      "title": "Ben Lutkevich：自然语言处理 NLP",
+      "description": "扩展阅读",
+      "sidebar": "tutorialSidebar"
+    },
+    "参考文档合集/google-chain-of-thought-paper": {
+      "id": "参考文档合集/google-chain-of-thought-paper",
+      "title": "谷歌：链式思维提示(COT Prompting)引发大型语言模型的推理",
+      "description": "原文链接：",
+      "sidebar": "tutorialSidebar"
+    },
+    "参考文档合集/NLP-模型发展简要史-从-bags-of-words-到-Transformer-家族": {
+      "id": "参考文档合集/NLP-模型发展简要史-从-bags-of-words-到-Transformer-家族",
+      "title": "NLP 模型发展简要史：从 bags of words 到 Transformer 家族",
+      "description": "扩展阅读",
+      "sidebar": "tutorialSidebar"
+    },
+    "参考文档合集/OpenAI-CEO-Sam-Altman-2022-07-采访": {
+      "id": "参考文档合集/OpenAI-CEO-Sam-Altman-2022-07-采访",
+      "title": "OpenAI CEO Sam Altman 2022.07 采访",
+      "description": "原视频链接：https://youtu.be/WHoWGNQRXb0",
+      "sidebar": "tutorialSidebar"
+    },
+    "参考文档合集/pdf-emergent-abilities-of-large-language-models": {
+      "id": "参考文档合集/pdf-emergent-abilities-of-large-language-models",
+      "title": "PDF：Emergent Abilities of Large Language Models",
+      "description": "Download",
+      "sidebar": "tutorialSidebar"
+    },
+    "参考文档合集/pdf-sparks-of-artificial-general-intelligence-early-experiments-with-gpt-4": {
+      "id": "参考文档合集/pdf-sparks-of-artificial-general-intelligence-early-experiments-with-gpt-4",
+      "title": "PDF：Sparks of Artificial General Intelligence: Early experiments with GPT-4",
+      "description": "扩展阅读",
+      "sidebar": "tutorialSidebar"
+    },
+    "参考文档合集/Transformer-论文逐段精度": {
+      "id": "参考文档合集/Transformer-论文逐段精度",
+      "title": "Transformer 论文逐段精度",
+      "description": "扩展阅读",
+      "sidebar": "tutorialSidebar"
+    },
+    "参考文档合集/Wolfram：ChatGPT在做什么...以及它为什么有效": {
+      "id": "参考文档合集/Wolfram：ChatGPT在做什么...以及它为什么有效",
+      "title": "Wolfram：ChatGPT在做什么...以及为什么有效?",
+      "description": "原文链接：",
+      "sidebar": "tutorialSidebar"
+    },
+    "底层技术理解/2.1.-小白向的详细原理解释": {
+      "id": "底层技术理解/2.1.-小白向的详细原理解释",
+      "title": "2.1. 【小白向】详细原理解释",
+      "description": "前言",
+      "sidebar": "tutorialSidebar"
+    },
+    "底层技术理解/2.2.-自然语言处理": {
+      "id": "底层技术理解/2.2.-自然语言处理",
+      "title": "2.1. 自然语言处理（NLP, Natural Language Processing）",
+      "description": "自然语言处理(NLP) 是人工智能(AI) 的一个分支，它能够使计算机理解、生成和处理人类语言，支持用户使用自然语言文本或语音来询问(interrogate) 数据，因此又被称为“语言输入(language in)”。",
+      "sidebar": "tutorialSidebar"
+    },
+    "底层技术理解/2.3.-从-GPT1-到-GPT4": {
+      "id": "底层技术理解/2.3.-从-GPT1-到-GPT4",
+      "title": "2.3. 从 GPT1 到 GPT4",
+      "description": "Untitled",
+      "sidebar": "tutorialSidebar"
+    },
+    "底层技术理解/2.4.-新范式时代": {
+      "id": "底层技术理解/2.4.-新范式时代",
+      "title": "2.4. 新范式时代：LLM、AGI 与展望（2020 -）",
+      "description": "从 ChatGPT 推出以来，LLM 好像成为了人类创造 AGI 的曙光。",
+      "sidebar": "tutorialSidebar"
+    },
+    "底层技术理解/QA-常见问题与回答": {
+      "id": "底层技术理解/QA-常见问题与回答",
+      "title": "Q&A：常见问题与回答",
+      "description": "你可以通过阅读当前模块快速了解本章重点内容。",
+      "sidebar": "tutorialSidebar"
+    },
+    "基础概念/1.1.-chatgpt": {
+      "id": "基础概念/1.1.-chatgpt",
+      "title": "1.1. ChatGPT",
+      "description": "ChatGPT 是由 OpenAI 开发的尖端对话人工智能产品，基于 GPT 系列语言模型设计，旨在生成类似人类的自然语言应答。ChatGPT 因其生成连贯、上下文相关的应答能力而备受欢迎。",
+      "sidebar": "tutorialSidebar"
+    },
+    "基础概念/1.2.-功能简介及市场反响": {
+      "id": "基础概念/1.2.-功能简介及市场反响",
+      "title": "1.2. 功能简介及市场反响",
+      "description": "功能简介",
+      "sidebar": "tutorialSidebar"
+    },
+    "基础概念/1.3.-开始使用": {
+      "id": "基础概念/1.3.-开始使用",
+      "title": "1.3. 开始使用",
+      "description": "开始前",
+      "sidebar": "tutorialSidebar"
+    },
+    "基础概念/QA-常见问题与回答": {
+      "id": "基础概念/QA-常见问题与回答",
+      "title": "Q&A：常见问题与回答",
+      "description": "你可以通过阅读当前模块快速了解本章重点内容。",
+      "sidebar": "tutorialSidebar"
+    },
+    "其他/6.1.-名词解释": {
+      "id": "其他/6.1.-名词解释",
+      "title": "7.1. 名词解释",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "其他/6.2.-实用链接": {
+      "id": "其他/6.2.-实用链接",
+      "title": "7.2. 实用链接",
+      "description": "论文",
+      "sidebar": "tutorialSidebar"
+    },
+    "实操技巧/5.1.-Prompt-gong-cheng/-advanced-skills": {
+      "id": "实操技巧/5.1.-Prompt-gong-cheng/-advanced-skills",
+      "title": "5.1.5. 更多高阶技巧",
+      "description": "ReAct",
+      "sidebar": "tutorialSidebar"
+    },
+    "实操技巧/5.1.-Prompt-gong-cheng/-basic-prompt-introduction": {
+      "id": "实操技巧/5.1.-Prompt-gong-cheng/-basic-prompt-introduction",
+      "title": "5.1.1. Prompt 从 0 到 1",
+      "description": "Prompting Engineer 提示工程是一种相对较新的学科，用于开发和优化提示，以高效地使用语言模型（LM）进行各种应用和研究主题。提示工程技能有助于更好地理解大型语言模型（LLM）的能力和局限性。研究人员使用提示工程来改善LLM在各种常见和复杂任务（如问答和算术推理）上的能力。开发人员使用提示工程来设计与LLM和其他工具交互的稳健有效的提示技术。",
+      "sidebar": "tutorialSidebar"
+    },
+    "实操技巧/5.1.-Prompt-gong-cheng/-chain-of-thought-prompting": {
+      "id": "实操技巧/5.1.-Prompt-gong-cheng/-chain-of-thought-prompting",
+      "title": "5.1.4. Chain-of-Thought Prompting",
+      "description": "Chain of thought prompting 是一种简单且广泛适用的方法，可提高语言模型执行各种推理任务的能力。通过对算术和常识推理的实验，我们发现思维链式启发是模型规模的一种新兴属性。",
+      "sidebar": "tutorialSidebar"
+    },
+    "实操技巧/5.1.-Prompt-gong-cheng/-prompt-skills": {
+      "id": "实操技巧/5.1.-Prompt-gong-cheng/-prompt-skills",
+      "title": "5.1.2. Prompt 技巧",
+      "description": "接下来我们来看看目前 ChatGPT 使用上的一些常见的技巧，如果你想在看具体技巧前就理解这些技巧的原理，可以先阅读后面的内容，读完所有进阶知识后你会对这些技巧有更深的理解。",
+      "sidebar": "tutorialSidebar"
+    },
+    "实操技巧/5.1.-Prompt-gong-cheng/-zero-few-shot-prompting": {
+      "id": "实操技巧/5.1.-Prompt-gong-cheng/-zero-few-shot-prompting",
+      "title": "5.1.3. Zero/Few-Shot Prompting",
+      "description": "Zero-Shot Prompting 零样本提示",
+      "sidebar": "tutorialSidebar"
+    },
+    "实操技巧/5.1.-Prompt-gong-cheng/README": {
+      "id": "实操技巧/5.1.-Prompt-gong-cheng/README",
+      "title": "5.1. Prompt 工程",
+      "description": "入门概念",
+      "sidebar": "tutorialSidebar"
+    },
+    "实操技巧/5.2.-langchain-gpt-index": {
+      "id": "实操技巧/5.2.-langchain-gpt-index",
+      "title": "5.2. LangChain/GPT index",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "实操技巧/5.3.-插件": {
+      "id": "实操技巧/5.3.-插件",
+      "title": "5.3. 插件",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "行业观察/3.1.-最新新闻-每日更新": {
+      "id": "行业观察/3.1.-最新新闻-每日更新",
+      "title": "3.1. 最新新闻（每日更新）",
+      "description": "请阅读 GPT新闻区",
+      "sidebar": "tutorialSidebar"
+    },
+    "行业观察/3.2.-行业概览与发展历程": {
+      "id": "行业观察/3.2.-行业概览与发展历程",
+      "title": "3.2. 行业概览与发展历程",
+      "description": "首先我们想下一个可能略有些鲁莽的推断：ChatGPT 的到来意味着新一代的人与信息交互方式的开启。",
+      "sidebar": "tutorialSidebar"
+    },
+    "行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/上游-算力与数据": {
+      "id": "行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/上游-算力与数据",
+      "title": "上游：算力与数据",
+      "description": "为什么会算力和数据一起说？算力和数据都是在训练模型阶段所需要的最重要的东西。",
+      "sidebar": "tutorialSidebar"
+    },
+    "行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/下游-场景落地": {
+      "id": "行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/下游-场景落地",
+      "title": "下游：场景落地",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/中游-模型": {
+      "id": "行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/中游-模型",
+      "title": "中游：模型",
+      "description": "在认为未来少数 AGI 是会一统天下、形成类似于如今 iOS、Android 的局面的前提下，有人说模型的产业里会有三张船票，OpenAI 已经拿到一张了，在中国大家会去抢一张，世界范围内还会去抢一张。",
+      "sidebar": "tutorialSidebar"
+    },
+    "行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/README": {
+      "id": "行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/README",
+      "title": "3.3.  产业链及相关公司",
+      "description": "有一个业内普遍认同的公式，叫做：",
+      "sidebar": "tutorialSidebar"
+    },
+    "行业观察/3.4.-更多视角": {
+      "id": "行业观察/3.4.-更多视角",
+      "title": "3.4. 更多视角",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "行业观察/QA-常见问题与回答": {
+      "id": "行业观察/QA-常见问题与回答",
+      "title": "Q&A：常见问题与回答",
+      "description": "你可以通过阅读当前模块快速了解本章重点内容。",
+      "sidebar": "tutorialSidebar"
+    },
+    "应用场景/4.1.-官方应用/4.1.1.-官网应用": {
+      "id": "应用场景/4.1.-官方应用/4.1.1.-官网应用",
+      "title": "4.1.1 官网案例",
+      "description": "作者：@Talia",
+      "sidebar": "tutorialSidebar"
+    },
+    "应用场景/4.1.-官方应用/README": {
+      "id": "应用场景/4.1.-官方应用/README",
+      "title": "4.1 官方应用",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "应用场景/4.2.-民间热门应用": {
+      "id": "应用场景/4.2.-民间热门应用",
+      "title": "4.2. 民间热门应用",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "应用场景/4.3-更多场景展望": {
+      "id": "应用场景/4.3-更多场景展望",
+      "title": "4.3 更多场景展望",
+      "description": "金融",
+      "sidebar": "tutorialSidebar"
+    },
+    "应用场景/QA-常见问题与回答": {
+      "id": "应用场景/QA-常见问题与回答",
+      "title": "Q&A：常见问题与回答",
+      "description": "你可以通过阅读当前模块快速了解本章重点内容。",
+      "sidebar": "tutorialSidebar"
+    },
+    "README": {
+      "id": "README",
+      "title": "ChatGPT 教程",
+      "description": "Spark闪闪团队出品：ChatGPT 从0到1 系统性学习资料汇总",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

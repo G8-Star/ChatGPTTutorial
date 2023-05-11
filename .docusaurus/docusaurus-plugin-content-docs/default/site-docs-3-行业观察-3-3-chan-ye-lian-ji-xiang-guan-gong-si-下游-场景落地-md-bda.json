@@ -1,0 +1,27 @@
+{
+  "unversionedId": "行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/下游-场景落地",
+  "id": "行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/下游-场景落地",
+  "title": "下游：场景落地",
+  "description": "",
+  "source": "@site/docs/3.行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/下游-场景落地.md",
+  "sourceDirName": "3.行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si",
+  "slug": "/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/下游-场景落地",
+  "permalink": "/docs/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/下游-场景落地",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPT Tutorial/edit/main/docs/3.行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/下游-场景落地.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "中游：模型",
+    "permalink": "/docs/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/中游-模型"
+  },
+  "next": {
+    "title": "3.4. 更多视角",
+    "permalink": "/docs/行业观察/3.4.-更多视角"
+  }
+}

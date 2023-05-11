@@ -1,0 +1,24 @@
+{
+  "unversionedId": "底层技术理解/2.4.-新范式时代",
+  "id": "底层技术理解/2.4.-新范式时代",
+  "title": "2.4. 新范式时代：LLM、AGI 与展望（2020 -）",
+  "description": "从 ChatGPT 推出以来，LLM 好像成为了人类创造 AGI 的曙光。",
+  "source": "@site/docs/2.底层技术理解/2.4.-新范式时代.md",
+  "sourceDirName": "2.底层技术理解",
+  "slug": "/底层技术理解/2.4.-新范式时代",
+  "permalink": "/docs/底层技术理解/2.4.-新范式时代",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/2.底层技术理解/2.4.-新范式时代.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2.3. 从 GPT1 到 GPT4",
+    "permalink": "/docs/底层技术理解/2.3.-从-GPT1-到-GPT4"
+  },
+  "next": {
+    "title": "Q&A：常见问题与回答",
+    "permalink": "/docs/底层技术理解/QA-常见问题与回答"
+  }
+}

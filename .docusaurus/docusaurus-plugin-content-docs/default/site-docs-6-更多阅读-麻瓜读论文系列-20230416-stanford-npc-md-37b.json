@@ -1,0 +1,25 @@
+{
+  "unversionedId": "更多阅读/麻瓜读论文系列/stanford-npc",
+  "id": "更多阅读/麻瓜读论文系列/stanford-npc",
+  "title": "【麻瓜读论文】斯坦福用ChatGPT造了25个NPC模拟人生",
+  "description": "帮助非机器学习等“深奥”计算机科学研究者更好地理解 GPT，会详细解读最新的 GPT 相关的重要论文。",
+  "source": "@site/docs/6.更多阅读/麻瓜读论文系列/20230416-stanford-npc.md",
+  "sourceDirName": "6.更多阅读/麻瓜读论文系列",
+  "slug": "/更多阅读/麻瓜读论文系列/stanford-npc",
+  "permalink": "/docs/更多阅读/麻瓜读论文系列/stanford-npc",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/6.更多阅读/麻瓜读论文系列/20230416-stanford-npc.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 20230416,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "6. 更多阅读",
+    "permalink": "/docs/category/6-更多阅读"
+  },
+  "next": {
+    "title": "【麻瓜读论文】LLM 升级到 AGI 的可能必备 Prompt 框架 —— ReAct",
+    "permalink": "/docs/更多阅读/麻瓜读论文系列/google-react"
+  }
+}

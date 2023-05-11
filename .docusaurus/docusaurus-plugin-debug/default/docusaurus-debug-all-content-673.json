@@ -1,0 +1,1583 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs",
+          "editUrlLocalized": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/i18n/zh-Hans/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "E:\\ChatGPT Tutorial\\sidebars.js",
+          "contentPath": "E:\\ChatGPT Tutorial\\docs",
+          "contentPathLocalized": "E:\\ChatGPT Tutorial\\i18n\\zh-Hans\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "参考文档合集/红杉资本-生成式人工智能-创造一个全新的世界",
+              "id": "参考文档合集/红杉资本-生成式人工智能-创造一个全新的世界",
+              "title": "红杉资本：生成式人工智能：创造一个全新的世界",
+              "description": "快速一览",
+              "source": "@site/docs/参考文档合集/红杉资本-生成式人工智能-创造一个全新的世界.md",
+              "sourceDirName": "参考文档合集",
+              "slug": "/参考文档合集/红杉资本-生成式人工智能-创造一个全新的世界",
+              "permalink": "/docs/参考文档合集/红杉资本-生成式人工智能-创造一个全新的世界",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/参考文档合集/红杉资本-生成式人工智能-创造一个全新的世界.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "数据挖掘、机器学习、自然语言处理这三者是什么关系？这几个怎么入门啊？ - White Pillow的回答 - 知乎",
+                "permalink": "/docs/参考文档合集/数据挖掘-机器学习-自然语言处理这三者是什么关系-这几个怎么入门啊"
+              }
+            },
+            {
+              "unversionedId": "参考文档合集/强烈推荐-通向AGI之路-大型语言模型-LLM-技术精要",
+              "id": "参考文档合集/强烈推荐-通向AGI之路-大型语言模型-LLM-技术精要",
+              "title": "【强烈推荐】通向AGI之路：大型语言模型（LLM）技术精要",
+              "description": "扩展阅读",
+              "source": "@site/docs/参考文档合集/强烈推荐-通向AGI之路-大型语言模型-LLM-技术精要.md",
+              "sourceDirName": "参考文档合集",
+              "slug": "/参考文档合集/强烈推荐-通向AGI之路-大型语言模型-LLM-技术精要",
+              "permalink": "/docs/参考文档合集/强烈推荐-通向AGI之路-大型语言模型-LLM-技术精要",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/参考文档合集/强烈推荐-通向AGI之路-大型语言模型-LLM-技术精要.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "扩展阅读"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "【强烈推荐】GPT，GPT-2，GPT-3 论文精读",
+                "permalink": "/docs/参考文档合集/强烈推荐-GPT-GPT-2-GPT-3-论文精读"
+              },
+              "next": {
+                "title": "数据挖掘、机器学习、自然语言处理这三者是什么关系？这几个怎么入门啊？ - White Pillow的回答 - 知乎",
+                "permalink": "/docs/参考文档合集/数据挖掘-机器学习-自然语言处理这三者是什么关系-这几个怎么入门啊"
+              }
+            },
+            {
+              "unversionedId": "参考文档合集/强烈推荐-GPT-GPT-2-GPT-3-论文精读",
+              "id": "参考文档合集/强烈推荐-GPT-GPT-2-GPT-3-论文精读",
+              "title": "【强烈推荐】GPT，GPT-2，GPT-3 论文精读",
+              "description": "扩展阅读",
+              "source": "@site/docs/参考文档合集/强烈推荐-GPT-GPT-2-GPT-3-论文精读.md",
+              "sourceDirName": "参考文档合集",
+              "slug": "/参考文档合集/强烈推荐-GPT-GPT-2-GPT-3-论文精读",
+              "permalink": "/docs/参考文档合集/强烈推荐-GPT-GPT-2-GPT-3-论文精读",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/参考文档合集/强烈推荐-GPT-GPT-2-GPT-3-论文精读.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "扩展阅读"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "PDF：Sparks of Artificial General Intelligence: Early experiments with GPT-4",
+                "permalink": "/docs/参考文档合集/pdf-sparks-of-artificial-general-intelligence-early-experiments-with-gpt-4"
+              },
+              "next": {
+                "title": "【强烈推荐】通向AGI之路：大型语言模型（LLM）技术精要",
+                "permalink": "/docs/参考文档合集/强烈推荐-通向AGI之路-大型语言模型-LLM-技术精要"
+              }
+            },
+            {
+              "unversionedId": "参考文档合集/数据挖掘-机器学习-自然语言处理这三者是什么关系-这几个怎么入门啊",
+              "id": "参考文档合集/数据挖掘-机器学习-自然语言处理这三者是什么关系-这几个怎么入门啊",
+              "title": "数据挖掘、机器学习、自然语言处理这三者是什么关系？这几个怎么入门啊？ - White Pillow的回答 - 知乎",
+              "description": "扩展阅读",
+              "source": "@site/docs/参考文档合集/数据挖掘-机器学习-自然语言处理这三者是什么关系-这几个怎么入门啊.md",
+              "sourceDirName": "参考文档合集",
+              "slug": "/参考文档合集/数据挖掘-机器学习-自然语言处理这三者是什么关系-这几个怎么入门啊",
+              "permalink": "/docs/参考文档合集/数据挖掘-机器学习-自然语言处理这三者是什么关系-这几个怎么入门啊",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/参考文档合集/数据挖掘-机器学习-自然语言处理这三者是什么关系-这几个怎么入门啊.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "扩展阅读"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "【强烈推荐】通向AGI之路：大型语言模型（LLM）技术精要",
+                "permalink": "/docs/参考文档合集/强烈推荐-通向AGI之路-大型语言模型-LLM-技术精要"
+              },
+              "next": {
+                "title": "红杉资本：生成式人工智能：创造一个全新的世界",
+                "permalink": "/docs/参考文档合集/红杉资本-生成式人工智能-创造一个全新的世界"
+              }
+            },
+            {
+              "unversionedId": "参考文档合集/Ben-Lutkevich-自然语言处理-NLP",
+              "id": "参考文档合集/Ben-Lutkevich-自然语言处理-NLP",
+              "title": "Ben Lutkevich：自然语言处理 NLP",
+              "description": "扩展阅读",
+              "source": "@site/docs/参考文档合集/Ben-Lutkevich-自然语言处理-NLP.md",
+              "sourceDirName": "参考文档合集",
+              "slug": "/参考文档合集/Ben-Lutkevich-自然语言处理-NLP",
+              "permalink": "/docs/参考文档合集/Ben-Lutkevich-自然语言处理-NLP",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/参考文档合集/Ben-Lutkevich-自然语言处理-NLP.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "扩展阅读"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "7.2. 实用链接",
+                "permalink": "/docs/其他/6.2.-实用链接"
+              },
+              "next": {
+                "title": "NLP 模型发展简要史：从 bags of words 到 Transformer 家族",
+                "permalink": "/docs/参考文档合集/NLP-模型发展简要史-从-bags-of-words-到-Transformer-家族"
+              }
+            },
+            {
+              "unversionedId": "参考文档合集/google-chain-of-thought-paper",
+              "id": "参考文档合集/google-chain-of-thought-paper",
+              "title": "谷歌：链式思维提示(COT Prompting)引发大型语言模型的推理",
+              "description": "原文链接：",
+              "source": "@site/docs/参考文档合集/google-chain-of-thought-paper.md",
+              "sourceDirName": "参考文档合集",
+              "slug": "/参考文档合集/google-chain-of-thought-paper",
+              "permalink": "/docs/参考文档合集/google-chain-of-thought-paper",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/参考文档合集/google-chain-of-thought-paper.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Wolfram：ChatGPT在做什么...以及为什么有效?",
+                "permalink": "/docs/参考文档合集/Wolfram：ChatGPT在做什么...以及它为什么有效"
+              },
+              "next": {
+                "title": "PDF：Emergent Abilities of Large Language Models",
+                "permalink": "/docs/参考文档合集/pdf-emergent-abilities-of-large-language-models"
+              }
+            },
+            {
+              "unversionedId": "参考文档合集/NLP-模型发展简要史-从-bags-of-words-到-Transformer-家族",
+              "id": "参考文档合集/NLP-模型发展简要史-从-bags-of-words-到-Transformer-家族",
+              "title": "NLP 模型发展简要史：从 bags of words 到 Transformer 家族",
+              "description": "扩展阅读",
+              "source": "@site/docs/参考文档合集/NLP-模型发展简要史-从-bags-of-words-到-Transformer-家族.md",
+              "sourceDirName": "参考文档合集",
+              "slug": "/参考文档合集/NLP-模型发展简要史-从-bags-of-words-到-Transformer-家族",
+              "permalink": "/docs/参考文档合集/NLP-模型发展简要史-从-bags-of-words-到-Transformer-家族",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/参考文档合集/NLP-模型发展简要史-从-bags-of-words-到-Transformer-家族.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "扩展阅读"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Ben Lutkevich：自然语言处理 NLP",
+                "permalink": "/docs/参考文档合集/Ben-Lutkevich-自然语言处理-NLP"
+              },
+              "next": {
+                "title": "OpenAI CEO Sam Altman 2022.07 采访",
+                "permalink": "/docs/参考文档合集/OpenAI-CEO-Sam-Altman-2022-07-采访"
+              }
+            },
+            {
+              "unversionedId": "参考文档合集/OpenAI-CEO-Sam-Altman-2022-07-采访",
+              "id": "参考文档合集/OpenAI-CEO-Sam-Altman-2022-07-采访",
+              "title": "OpenAI CEO Sam Altman 2022.07 采访",
+              "description": "原视频链接：https://youtu.be/WHoWGNQRXb0",
+              "source": "@site/docs/参考文档合集/OpenAI-CEO-Sam-Altman-2022-07-采访.md",
+              "sourceDirName": "参考文档合集",
+              "slug": "/参考文档合集/OpenAI-CEO-Sam-Altman-2022-07-采访",
+              "permalink": "/docs/参考文档合集/OpenAI-CEO-Sam-Altman-2022-07-采访",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/参考文档合集/OpenAI-CEO-Sam-Altman-2022-07-采访.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "NLP 模型发展简要史：从 bags of words 到 Transformer 家族",
+                "permalink": "/docs/参考文档合集/NLP-模型发展简要史-从-bags-of-words-到-Transformer-家族"
+              },
+              "next": {
+                "title": "Transformer 论文逐段精度",
+                "permalink": "/docs/参考文档合集/Transformer-论文逐段精度"
+              }
+            },
+            {
+              "unversionedId": "参考文档合集/pdf-emergent-abilities-of-large-language-models",
+              "id": "参考文档合集/pdf-emergent-abilities-of-large-language-models",
+              "title": "PDF：Emergent Abilities of Large Language Models",
+              "description": "Download",
+              "source": "@site/docs/参考文档合集/pdf-emergent-abilities-of-large-language-models.md",
+              "sourceDirName": "参考文档合集",
+              "slug": "/参考文档合集/pdf-emergent-abilities-of-large-language-models",
+              "permalink": "/docs/参考文档合集/pdf-emergent-abilities-of-large-language-models",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/参考文档合集/pdf-emergent-abilities-of-large-language-models.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "谷歌：链式思维提示(COT Prompting)引发大型语言模型的推理",
+                "permalink": "/docs/参考文档合集/google-chain-of-thought-paper"
+              },
+              "next": {
+                "title": "PDF：Sparks of Artificial General Intelligence: Early experiments with GPT-4",
+                "permalink": "/docs/参考文档合集/pdf-sparks-of-artificial-general-intelligence-early-experiments-with-gpt-4"
+              }
+            },
+            {
+              "unversionedId": "参考文档合集/pdf-sparks-of-artificial-general-intelligence-early-experiments-with-gpt-4",
+              "id": "参考文档合集/pdf-sparks-of-artificial-general-intelligence-early-experiments-with-gpt-4",
+              "title": "PDF：Sparks of Artificial General Intelligence: Early experiments with GPT-4",
+              "description": "扩展阅读",
+              "source": "@site/docs/参考文档合集/pdf-sparks-of-artificial-general-intelligence-early-experiments-with-gpt-4.md",
+              "sourceDirName": "参考文档合集",
+              "slug": "/参考文档合集/pdf-sparks-of-artificial-general-intelligence-early-experiments-with-gpt-4",
+              "permalink": "/docs/参考文档合集/pdf-sparks-of-artificial-general-intelligence-early-experiments-with-gpt-4",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/参考文档合集/pdf-sparks-of-artificial-general-intelligence-early-experiments-with-gpt-4.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "扩展阅读"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "PDF：Emergent Abilities of Large Language Models",
+                "permalink": "/docs/参考文档合集/pdf-emergent-abilities-of-large-language-models"
+              },
+              "next": {
+                "title": "【强烈推荐】GPT，GPT-2，GPT-3 论文精读",
+                "permalink": "/docs/参考文档合集/强烈推荐-GPT-GPT-2-GPT-3-论文精读"
+              }
+            },
+            {
+              "unversionedId": "参考文档合集/Transformer-论文逐段精度",
+              "id": "参考文档合集/Transformer-论文逐段精度",
+              "title": "Transformer 论文逐段精度",
+              "description": "扩展阅读",
+              "source": "@site/docs/参考文档合集/Transformer-论文逐段精度.md",
+              "sourceDirName": "参考文档合集",
+              "slug": "/参考文档合集/Transformer-论文逐段精度",
+              "permalink": "/docs/参考文档合集/Transformer-论文逐段精度",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/参考文档合集/Transformer-论文逐段精度.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "扩展阅读"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "OpenAI CEO Sam Altman 2022.07 采访",
+                "permalink": "/docs/参考文档合集/OpenAI-CEO-Sam-Altman-2022-07-采访"
+              },
+              "next": {
+                "title": "Wolfram：ChatGPT在做什么...以及为什么有效?",
+                "permalink": "/docs/参考文档合集/Wolfram：ChatGPT在做什么...以及它为什么有效"
+              }
+            },
+            {
+              "unversionedId": "参考文档合集/Wolfram：ChatGPT在做什么...以及它为什么有效",
+              "id": "参考文档合集/Wolfram：ChatGPT在做什么...以及它为什么有效",
+              "title": "Wolfram：ChatGPT在做什么...以及为什么有效?",
+              "description": "原文链接：",
+              "source": "@site/docs/参考文档合集/Wolfram：ChatGPT在做什么...以及它为什么有效.md",
+              "sourceDirName": "参考文档合集",
+              "slug": "/参考文档合集/Wolfram：ChatGPT在做什么...以及它为什么有效",
+              "permalink": "/docs/参考文档合集/Wolfram：ChatGPT在做什么...以及它为什么有效",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/参考文档合集/Wolfram：ChatGPT在做什么...以及它为什么有效.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Transformer 论文逐段精度",
+                "permalink": "/docs/参考文档合集/Transformer-论文逐段精度"
+              },
+              "next": {
+                "title": "谷歌：链式思维提示(COT Prompting)引发大型语言模型的推理",
+                "permalink": "/docs/参考文档合集/google-chain-of-thought-paper"
+              }
+            },
+            {
+              "unversionedId": "底层技术理解/2.1.-小白向的详细原理解释",
+              "id": "底层技术理解/2.1.-小白向的详细原理解释",
+              "title": "2.1. 【小白向】详细原理解释",
+              "description": "前言",
+              "source": "@site/docs/2.底层技术理解/2.1.-小白向的详细原理解释.md",
+              "sourceDirName": "2.底层技术理解",
+              "slug": "/底层技术理解/2.1.-小白向的详细原理解释",
+              "permalink": "/docs/底层技术理解/2.1.-小白向的详细原理解释",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/2.底层技术理解/2.1.-小白向的详细原理解释.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "2. 底层技术理解",
+                "permalink": "/docs/category/2-底层技术理解"
+              },
+              "next": {
+                "title": "2.1. 自然语言处理（NLP, Natural Language Processing）",
+                "permalink": "/docs/底层技术理解/2.2.-自然语言处理"
+              }
+            },
+            {
+              "unversionedId": "底层技术理解/2.2.-自然语言处理",
+              "id": "底层技术理解/2.2.-自然语言处理",
+              "title": "2.1. 自然语言处理（NLP, Natural Language Processing）",
+              "description": "自然语言处理(NLP) 是人工智能(AI) 的一个分支，它能够使计算机理解、生成和处理人类语言，支持用户使用自然语言文本或语音来询问(interrogate) 数据，因此又被称为“语言输入(language in)”。",
+              "source": "@site/docs/2.底层技术理解/2.2.-自然语言处理.md",
+              "sourceDirName": "2.底层技术理解",
+              "slug": "/底层技术理解/2.2.-自然语言处理",
+              "permalink": "/docs/底层技术理解/2.2.-自然语言处理",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/2.底层技术理解/2.2.-自然语言处理.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "2.1. 【小白向】详细原理解释",
+                "permalink": "/docs/底层技术理解/2.1.-小白向的详细原理解释"
+              },
+              "next": {
+                "title": "2.3. 从 GPT1 到 GPT4",
+                "permalink": "/docs/底层技术理解/2.3.-从-GPT1-到-GPT4"
+              }
+            },
+            {
+              "unversionedId": "底层技术理解/2.3.-从-GPT1-到-GPT4",
+              "id": "底层技术理解/2.3.-从-GPT1-到-GPT4",
+              "title": "2.3. 从 GPT1 到 GPT4",
+              "description": "Untitled",
+              "source": "@site/docs/2.底层技术理解/2.3.-从-GPT1-到-GPT4.md",
+              "sourceDirName": "2.底层技术理解",
+              "slug": "/底层技术理解/2.3.-从-GPT1-到-GPT4",
+              "permalink": "/docs/底层技术理解/2.3.-从-GPT1-到-GPT4",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/2.底层技术理解/2.3.-从-GPT1-到-GPT4.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "2.1. 自然语言处理（NLP, Natural Language Processing）",
+                "permalink": "/docs/底层技术理解/2.2.-自然语言处理"
+              },
+              "next": {
+                "title": "2.4. 新范式时代：LLM、AGI 与展望（2020 -）",
+                "permalink": "/docs/底层技术理解/2.4.-新范式时代"
+              }
+            },
+            {
+              "unversionedId": "底层技术理解/2.4.-新范式时代",
+              "id": "底层技术理解/2.4.-新范式时代",
+              "title": "2.4. 新范式时代：LLM、AGI 与展望（2020 -）",
+              "description": "从 ChatGPT 推出以来，LLM 好像成为了人类创造 AGI 的曙光。",
+              "source": "@site/docs/2.底层技术理解/2.4.-新范式时代.md",
+              "sourceDirName": "2.底层技术理解",
+              "slug": "/底层技术理解/2.4.-新范式时代",
+              "permalink": "/docs/底层技术理解/2.4.-新范式时代",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/2.底层技术理解/2.4.-新范式时代.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "2.3. 从 GPT1 到 GPT4",
+                "permalink": "/docs/底层技术理解/2.3.-从-GPT1-到-GPT4"
+              },
+              "next": {
+                "title": "Q&A：常见问题与回答",
+                "permalink": "/docs/底层技术理解/QA-常见问题与回答"
+              }
+            },
+            {
+              "unversionedId": "底层技术理解/QA-常见问题与回答",
+              "id": "底层技术理解/QA-常见问题与回答",
+              "title": "Q&A：常见问题与回答",
+              "description": "你可以通过阅读当前模块快速了解本章重点内容。",
+              "source": "@site/docs/2.底层技术理解/QA-常见问题与回答.md",
+              "sourceDirName": "2.底层技术理解",
+              "slug": "/底层技术理解/QA-常见问题与回答",
+              "permalink": "/docs/底层技术理解/QA-常见问题与回答",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/2.底层技术理解/QA-常见问题与回答.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "2.4. 新范式时代：LLM、AGI 与展望（2020 -）",
+                "permalink": "/docs/底层技术理解/2.4.-新范式时代"
+              },
+              "next": {
+                "title": "3. 行业观察",
+                "permalink": "/docs/category/3-行业观察"
+              }
+            },
+            {
+              "unversionedId": "基础概念/1.1.-chatgpt",
+              "id": "基础概念/1.1.-chatgpt",
+              "title": "1.1. ChatGPT",
+              "description": "ChatGPT 是由 OpenAI 开发的尖端对话人工智能产品，基于 GPT 系列语言模型设计，旨在生成类似人类的自然语言应答。ChatGPT 因其生成连贯、上下文相关的应答能力而备受欢迎。",
+              "source": "@site/docs/1.基础概念/1.1.-chatgpt.md",
+              "sourceDirName": "1.基础概念",
+              "slug": "/基础概念/1.1.-chatgpt",
+              "permalink": "/docs/基础概念/1.1.-chatgpt",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/1.基础概念/1.1.-chatgpt.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "1. 基础概念",
+                "permalink": "/docs/category/1-基础概念"
+              },
+              "next": {
+                "title": "1.2. 功能简介及市场反响",
+                "permalink": "/docs/基础概念/1.2.-功能简介及市场反响"
+              }
+            },
+            {
+              "unversionedId": "基础概念/1.2.-功能简介及市场反响",
+              "id": "基础概念/1.2.-功能简介及市场反响",
+              "title": "1.2. 功能简介及市场反响",
+              "description": "功能简介",
+              "source": "@site/docs/1.基础概念/1.2.-功能简介及市场反响.md",
+              "sourceDirName": "1.基础概念",
+              "slug": "/基础概念/1.2.-功能简介及市场反响",
+              "permalink": "/docs/基础概念/1.2.-功能简介及市场反响",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/1.基础概念/1.2.-功能简介及市场反响.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "1.1. ChatGPT",
+                "permalink": "/docs/基础概念/1.1.-chatgpt"
+              },
+              "next": {
+                "title": "1.3. 开始使用",
+                "permalink": "/docs/基础概念/1.3.-开始使用"
+              }
+            },
+            {
+              "unversionedId": "基础概念/1.3.-开始使用",
+              "id": "基础概念/1.3.-开始使用",
+              "title": "1.3. 开始使用",
+              "description": "开始前",
+              "source": "@site/docs/1.基础概念/1.3.-开始使用.md",
+              "sourceDirName": "1.基础概念",
+              "slug": "/基础概念/1.3.-开始使用",
+              "permalink": "/docs/基础概念/1.3.-开始使用",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/1.基础概念/1.3.-开始使用.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "1.2. 功能简介及市场反响",
+                "permalink": "/docs/基础概念/1.2.-功能简介及市场反响"
+              },
+              "next": {
+                "title": "Q&A：常见问题与回答",
+                "permalink": "/docs/基础概念/QA-常见问题与回答"
+              }
+            },
+            {
+              "unversionedId": "基础概念/QA-常见问题与回答",
+              "id": "基础概念/QA-常见问题与回答",
+              "title": "Q&A：常见问题与回答",
+              "description": "你可以通过阅读当前模块快速了解本章重点内容。",
+              "source": "@site/docs/1.基础概念/QA-常见问题与回答.md",
+              "sourceDirName": "1.基础概念",
+              "slug": "/基础概念/QA-常见问题与回答",
+              "permalink": "/docs/基础概念/QA-常见问题与回答",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/1.基础概念/QA-常见问题与回答.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "1.3. 开始使用",
+                "permalink": "/docs/基础概念/1.3.-开始使用"
+              },
+              "next": {
+                "title": "2. 底层技术理解",
+                "permalink": "/docs/category/2-底层技术理解"
+              }
+            },
+            {
+              "unversionedId": "其他/6.1.-名词解释",
+              "id": "其他/6.1.-名词解释",
+              "title": "7.1. 名词解释",
+              "description": "",
+              "source": "@site/docs/6.其他/6.1.-名词解释.md",
+              "sourceDirName": "6.其他",
+              "slug": "/其他/6.1.-名词解释",
+              "permalink": "/docs/其他/6.1.-名词解释",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/6.其他/6.1.-名词解释.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "6. 其他",
+                "permalink": "/docs/category/6-其他"
+              },
+              "next": {
+                "title": "7.2. 实用链接",
+                "permalink": "/docs/其他/6.2.-实用链接"
+              }
+            },
+            {
+              "unversionedId": "其他/6.2.-实用链接",
+              "id": "其他/6.2.-实用链接",
+              "title": "7.2. 实用链接",
+              "description": "论文",
+              "source": "@site/docs/6.其他/6.2.-实用链接.md",
+              "sourceDirName": "6.其他",
+              "slug": "/其他/6.2.-实用链接",
+              "permalink": "/docs/其他/6.2.-实用链接",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/6.其他/6.2.-实用链接.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "7.1. 名词解释",
+                "permalink": "/docs/其他/6.1.-名词解释"
+              },
+              "next": {
+                "title": "Ben Lutkevich：自然语言处理 NLP",
+                "permalink": "/docs/参考文档合集/Ben-Lutkevich-自然语言处理-NLP"
+              }
+            },
+            {
+              "unversionedId": "实操技巧/5.1.-Prompt-gong-cheng/-advanced-skills",
+              "id": "实操技巧/5.1.-Prompt-gong-cheng/-advanced-skills",
+              "title": "5.1.5. 更多高阶技巧",
+              "description": "ReAct",
+              "source": "@site/docs/5.实操技巧/5.1.-Prompt-gong-cheng/-advanced-skills.md",
+              "sourceDirName": "5.实操技巧/5.1.-Prompt-gong-cheng",
+              "slug": "/实操技巧/5.1.-Prompt-gong-cheng/-advanced-skills",
+              "permalink": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-advanced-skills",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/5.实操技巧/5.1.-Prompt-gong-cheng/-advanced-skills.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "5.1.4. Chain-of-Thought Prompting",
+                "permalink": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-chain-of-thought-prompting"
+              },
+              "next": {
+                "title": "5.2. LangChain/GPT index",
+                "permalink": "/docs/实操技巧/5.2.-langchain-gpt-index"
+              }
+            },
+            {
+              "unversionedId": "实操技巧/5.1.-Prompt-gong-cheng/-basic-prompt-introduction",
+              "id": "实操技巧/5.1.-Prompt-gong-cheng/-basic-prompt-introduction",
+              "title": "5.1.1. Prompt 从 0 到 1",
+              "description": "Prompting Engineer 提示工程是一种相对较新的学科，用于开发和优化提示，以高效地使用语言模型（LM）进行各种应用和研究主题。提示工程技能有助于更好地理解大型语言模型（LLM）的能力和局限性。研究人员使用提示工程来改善LLM在各种常见和复杂任务（如问答和算术推理）上的能力。开发人员使用提示工程来设计与LLM和其他工具交互的稳健有效的提示技术。",
+              "source": "@site/docs/5.实操技巧/5.1.-Prompt-gong-cheng/-basic-prompt-introduction.md",
+              "sourceDirName": "5.实操技巧/5.1.-Prompt-gong-cheng",
+              "slug": "/实操技巧/5.1.-Prompt-gong-cheng/-basic-prompt-introduction",
+              "permalink": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-basic-prompt-introduction",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/5.实操技巧/5.1.-Prompt-gong-cheng/-basic-prompt-introduction.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "5.1. Prompt 工程",
+                "permalink": "/docs/实操技巧/5.1.-Prompt-gong-cheng/"
+              },
+              "next": {
+                "title": "5.1.2. Prompt 技巧",
+                "permalink": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-prompt-skills"
+              }
+            },
+            {
+              "unversionedId": "实操技巧/5.1.-Prompt-gong-cheng/-chain-of-thought-prompting",
+              "id": "实操技巧/5.1.-Prompt-gong-cheng/-chain-of-thought-prompting",
+              "title": "5.1.4. Chain-of-Thought Prompting",
+              "description": "Chain of thought prompting 是一种简单且广泛适用的方法，可提高语言模型执行各种推理任务的能力。通过对算术和常识推理的实验，我们发现思维链式启发是模型规模的一种新兴属性。",
+              "source": "@site/docs/5.实操技巧/5.1.-Prompt-gong-cheng/-chain-of-thought-prompting.md",
+              "sourceDirName": "5.实操技巧/5.1.-Prompt-gong-cheng",
+              "slug": "/实操技巧/5.1.-Prompt-gong-cheng/-chain-of-thought-prompting",
+              "permalink": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-chain-of-thought-prompting",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/5.实操技巧/5.1.-Prompt-gong-cheng/-chain-of-thought-prompting.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "5.1.3. Zero/Few-Shot Prompting",
+                "permalink": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-zero-few-shot-prompting"
+              },
+              "next": {
+                "title": "5.1.5. 更多高阶技巧",
+                "permalink": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-advanced-skills"
+              }
+            },
+            {
+              "unversionedId": "实操技巧/5.1.-Prompt-gong-cheng/-prompt-skills",
+              "id": "实操技巧/5.1.-Prompt-gong-cheng/-prompt-skills",
+              "title": "5.1.2. Prompt 技巧",
+              "description": "接下来我们来看看目前 ChatGPT 使用上的一些常见的技巧，如果你想在看具体技巧前就理解这些技巧的原理，可以先阅读后面的内容，读完所有进阶知识后你会对这些技巧有更深的理解。",
+              "source": "@site/docs/5.实操技巧/5.1.-Prompt-gong-cheng/-prompt-skills.md",
+              "sourceDirName": "5.实操技巧/5.1.-Prompt-gong-cheng",
+              "slug": "/实操技巧/5.1.-Prompt-gong-cheng/-prompt-skills",
+              "permalink": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-prompt-skills",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/5.实操技巧/5.1.-Prompt-gong-cheng/-prompt-skills.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "5.1.1. Prompt 从 0 到 1",
+                "permalink": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-basic-prompt-introduction"
+              },
+              "next": {
+                "title": "5.1.3. Zero/Few-Shot Prompting",
+                "permalink": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-zero-few-shot-prompting"
+              }
+            },
+            {
+              "unversionedId": "实操技巧/5.1.-Prompt-gong-cheng/-zero-few-shot-prompting",
+              "id": "实操技巧/5.1.-Prompt-gong-cheng/-zero-few-shot-prompting",
+              "title": "5.1.3. Zero/Few-Shot Prompting",
+              "description": "Zero-Shot Prompting 零样本提示",
+              "source": "@site/docs/5.实操技巧/5.1.-Prompt-gong-cheng/-zero-few-shot-prompting.md",
+              "sourceDirName": "5.实操技巧/5.1.-Prompt-gong-cheng",
+              "slug": "/实操技巧/5.1.-Prompt-gong-cheng/-zero-few-shot-prompting",
+              "permalink": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-zero-few-shot-prompting",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/5.实操技巧/5.1.-Prompt-gong-cheng/-zero-few-shot-prompting.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "5.1.2. Prompt 技巧",
+                "permalink": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-prompt-skills"
+              },
+              "next": {
+                "title": "5.1.4. Chain-of-Thought Prompting",
+                "permalink": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-chain-of-thought-prompting"
+              }
+            },
+            {
+              "unversionedId": "实操技巧/5.1.-Prompt-gong-cheng/README",
+              "id": "实操技巧/5.1.-Prompt-gong-cheng/README",
+              "title": "5.1. Prompt 工程",
+              "description": "入门概念",
+              "source": "@site/docs/5.实操技巧/5.1.-Prompt-gong-cheng/README.md",
+              "sourceDirName": "5.实操技巧/5.1.-Prompt-gong-cheng",
+              "slug": "/实操技巧/5.1.-Prompt-gong-cheng/",
+              "permalink": "/docs/实操技巧/5.1.-Prompt-gong-cheng/",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/5.实操技巧/5.1.-Prompt-gong-cheng/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "5. 实操技巧",
+                "permalink": "/docs/category/5-实操技巧"
+              },
+              "next": {
+                "title": "5.1.1. Prompt 从 0 到 1",
+                "permalink": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-basic-prompt-introduction"
+              }
+            },
+            {
+              "unversionedId": "实操技巧/5.2.-langchain-gpt-index",
+              "id": "实操技巧/5.2.-langchain-gpt-index",
+              "title": "5.2. LangChain/GPT index",
+              "description": "",
+              "source": "@site/docs/5.实操技巧/5.2.-langchain-gpt-index.md",
+              "sourceDirName": "5.实操技巧",
+              "slug": "/实操技巧/5.2.-langchain-gpt-index",
+              "permalink": "/docs/实操技巧/5.2.-langchain-gpt-index",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/5.实操技巧/5.2.-langchain-gpt-index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "5.1.5. 更多高阶技巧",
+                "permalink": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-advanced-skills"
+              },
+              "next": {
+                "title": "5.3. 插件",
+                "permalink": "/docs/实操技巧/5.3.-插件"
+              }
+            },
+            {
+              "unversionedId": "实操技巧/5.3.-插件",
+              "id": "实操技巧/5.3.-插件",
+              "title": "5.3. 插件",
+              "description": "",
+              "source": "@site/docs/5.实操技巧/5.3.-插件.md",
+              "sourceDirName": "5.实操技巧",
+              "slug": "/实操技巧/5.3.-插件",
+              "permalink": "/docs/实操技巧/5.3.-插件",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/5.实操技巧/5.3.-插件.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "5.2. LangChain/GPT index",
+                "permalink": "/docs/实操技巧/5.2.-langchain-gpt-index"
+              },
+              "next": {
+                "title": "6. 其他",
+                "permalink": "/docs/category/6-其他"
+              }
+            },
+            {
+              "unversionedId": "行业观察/3.1.-最新新闻-每日更新",
+              "id": "行业观察/3.1.-最新新闻-每日更新",
+              "title": "3.1. 最新新闻（每日更新）",
+              "description": "请阅读 GPT新闻区",
+              "source": "@site/docs/3.行业观察/3.1.-最新新闻-每日更新.md",
+              "sourceDirName": "3.行业观察",
+              "slug": "/行业观察/3.1.-最新新闻-每日更新",
+              "permalink": "/docs/行业观察/3.1.-最新新闻-每日更新",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/3.行业观察/3.1.-最新新闻-每日更新.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "3. 行业观察",
+                "permalink": "/docs/category/3-行业观察"
+              },
+              "next": {
+                "title": "3.2. 行业概览与发展历程",
+                "permalink": "/docs/行业观察/3.2.-行业概览与发展历程"
+              }
+            },
+            {
+              "unversionedId": "行业观察/3.2.-行业概览与发展历程",
+              "id": "行业观察/3.2.-行业概览与发展历程",
+              "title": "3.2. 行业概览与发展历程",
+              "description": "首先我们想下一个可能略有些鲁莽的推断：ChatGPT 的到来意味着新一代的人与信息交互方式的开启。",
+              "source": "@site/docs/3.行业观察/3.2.-行业概览与发展历程.md",
+              "sourceDirName": "3.行业观察",
+              "slug": "/行业观察/3.2.-行业概览与发展历程",
+              "permalink": "/docs/行业观察/3.2.-行业概览与发展历程",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/3.行业观察/3.2.-行业概览与发展历程.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "3.1. 最新新闻（每日更新）",
+                "permalink": "/docs/行业观察/3.1.-最新新闻-每日更新"
+              },
+              "next": {
+                "title": "3.3.  产业链及相关公司",
+                "permalink": "/docs/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/"
+              }
+            },
+            {
+              "unversionedId": "行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/上游-算力与数据",
+              "id": "行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/上游-算力与数据",
+              "title": "上游：算力与数据",
+              "description": "为什么会算力和数据一起说？算力和数据都是在训练模型阶段所需要的最重要的东西。",
+              "source": "@site/docs/3.行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/上游-算力与数据.md",
+              "sourceDirName": "3.行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si",
+              "slug": "/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/上游-算力与数据",
+              "permalink": "/docs/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/上游-算力与数据",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/3.行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/上游-算力与数据.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "3.3.  产业链及相关公司",
+                "permalink": "/docs/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/"
+              },
+              "next": {
+                "title": "中游：模型",
+                "permalink": "/docs/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/中游-模型"
+              }
+            },
+            {
+              "unversionedId": "行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/下游-场景落地",
+              "id": "行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/下游-场景落地",
+              "title": "下游：场景落地",
+              "description": "",
+              "source": "@site/docs/3.行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/下游-场景落地.md",
+              "sourceDirName": "3.行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si",
+              "slug": "/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/下游-场景落地",
+              "permalink": "/docs/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/下游-场景落地",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/3.行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/下游-场景落地.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "中游：模型",
+                "permalink": "/docs/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/中游-模型"
+              },
+              "next": {
+                "title": "3.4. 更多视角",
+                "permalink": "/docs/行业观察/3.4.-更多视角"
+              }
+            },
+            {
+              "unversionedId": "行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/中游-模型",
+              "id": "行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/中游-模型",
+              "title": "中游：模型",
+              "description": "在认为未来少数 AGI 是会一统天下、形成类似于如今 iOS、Android 的局面的前提下，有人说模型的产业里会有三张船票，OpenAI 已经拿到一张了，在中国大家会去抢一张，世界范围内还会去抢一张。",
+              "source": "@site/docs/3.行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/中游-模型.md",
+              "sourceDirName": "3.行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si",
+              "slug": "/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/中游-模型",
+              "permalink": "/docs/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/中游-模型",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/3.行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/中游-模型.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "上游：算力与数据",
+                "permalink": "/docs/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/上游-算力与数据"
+              },
+              "next": {
+                "title": "下游：场景落地",
+                "permalink": "/docs/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/下游-场景落地"
+              }
+            },
+            {
+              "unversionedId": "行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/README",
+              "id": "行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/README",
+              "title": "3.3.  产业链及相关公司",
+              "description": "有一个业内普遍认同的公式，叫做：",
+              "source": "@site/docs/3.行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/README.md",
+              "sourceDirName": "3.行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si",
+              "slug": "/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/",
+              "permalink": "/docs/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/3.行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "3.2. 行业概览与发展历程",
+                "permalink": "/docs/行业观察/3.2.-行业概览与发展历程"
+              },
+              "next": {
+                "title": "上游：算力与数据",
+                "permalink": "/docs/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/上游-算力与数据"
+              }
+            },
+            {
+              "unversionedId": "行业观察/3.4.-更多视角",
+              "id": "行业观察/3.4.-更多视角",
+              "title": "3.4. 更多视角",
+              "description": "",
+              "source": "@site/docs/3.行业观察/3.4.-更多视角.md",
+              "sourceDirName": "3.行业观察",
+              "slug": "/行业观察/3.4.-更多视角",
+              "permalink": "/docs/行业观察/3.4.-更多视角",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/3.行业观察/3.4.-更多视角.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "下游：场景落地",
+                "permalink": "/docs/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/下游-场景落地"
+              },
+              "next": {
+                "title": "Q&A：常见问题与回答",
+                "permalink": "/docs/行业观察/QA-常见问题与回答"
+              }
+            },
+            {
+              "unversionedId": "行业观察/QA-常见问题与回答",
+              "id": "行业观察/QA-常见问题与回答",
+              "title": "Q&A：常见问题与回答",
+              "description": "你可以通过阅读当前模块快速了解本章重点内容。",
+              "source": "@site/docs/3.行业观察/QA-常见问题与回答.md",
+              "sourceDirName": "3.行业观察",
+              "slug": "/行业观察/QA-常见问题与回答",
+              "permalink": "/docs/行业观察/QA-常见问题与回答",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/3.行业观察/QA-常见问题与回答.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "3.4. 更多视角",
+                "permalink": "/docs/行业观察/3.4.-更多视角"
+              },
+              "next": {
+                "title": "4. 应用场景",
+                "permalink": "/docs/category/4-应用场景"
+              }
+            },
+            {
+              "unversionedId": "应用场景/4.1.-官方应用/4.1.1.-官网应用",
+              "id": "应用场景/4.1.-官方应用/4.1.1.-官网应用",
+              "title": "4.1.1 官网案例",
+              "description": "作者：@Talia",
+              "source": "@site/docs/4.应用场景/4.1.-官方应用/4.1.1.-官网应用.md",
+              "sourceDirName": "4.应用场景/4.1.-官方应用",
+              "slug": "/应用场景/4.1.-官方应用/4.1.1.-官网应用",
+              "permalink": "/docs/应用场景/4.1.-官方应用/4.1.1.-官网应用",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/4.应用场景/4.1.-官方应用/4.1.1.-官网应用.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "4.1 官方应用",
+                "permalink": "/docs/应用场景/4.1.-官方应用/"
+              },
+              "next": {
+                "title": "4.2. 民间热门应用",
+                "permalink": "/docs/应用场景/4.2.-民间热门应用"
+              }
+            },
+            {
+              "unversionedId": "应用场景/4.1.-官方应用/README",
+              "id": "应用场景/4.1.-官方应用/README",
+              "title": "4.1 官方应用",
+              "description": "",
+              "source": "@site/docs/4.应用场景/4.1.-官方应用/README.md",
+              "sourceDirName": "4.应用场景/4.1.-官方应用",
+              "slug": "/应用场景/4.1.-官方应用/",
+              "permalink": "/docs/应用场景/4.1.-官方应用/",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/4.应用场景/4.1.-官方应用/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "4. 应用场景",
+                "permalink": "/docs/category/4-应用场景"
+              },
+              "next": {
+                "title": "4.1.1 官网案例",
+                "permalink": "/docs/应用场景/4.1.-官方应用/4.1.1.-官网应用"
+              }
+            },
+            {
+              "unversionedId": "应用场景/4.2.-民间热门应用",
+              "id": "应用场景/4.2.-民间热门应用",
+              "title": "4.2. 民间热门应用",
+              "description": "",
+              "source": "@site/docs/4.应用场景/4.2.-民间热门应用.md",
+              "sourceDirName": "4.应用场景",
+              "slug": "/应用场景/4.2.-民间热门应用",
+              "permalink": "/docs/应用场景/4.2.-民间热门应用",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/4.应用场景/4.2.-民间热门应用.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "4.1.1 官网案例",
+                "permalink": "/docs/应用场景/4.1.-官方应用/4.1.1.-官网应用"
+              },
+              "next": {
+                "title": "4.3 更多场景展望",
+                "permalink": "/docs/应用场景/4.3-更多场景展望"
+              }
+            },
+            {
+              "unversionedId": "应用场景/4.3-更多场景展望",
+              "id": "应用场景/4.3-更多场景展望",
+              "title": "4.3 更多场景展望",
+              "description": "金融",
+              "source": "@site/docs/4.应用场景/4.3-更多场景展望.md",
+              "sourceDirName": "4.应用场景",
+              "slug": "/应用场景/4.3-更多场景展望",
+              "permalink": "/docs/应用场景/4.3-更多场景展望",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/4.应用场景/4.3-更多场景展望.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "4.2. 民间热门应用",
+                "permalink": "/docs/应用场景/4.2.-民间热门应用"
+              },
+              "next": {
+                "title": "Q&A：常见问题与回答",
+                "permalink": "/docs/应用场景/QA-常见问题与回答"
+              }
+            },
+            {
+              "unversionedId": "应用场景/QA-常见问题与回答",
+              "id": "应用场景/QA-常见问题与回答",
+              "title": "Q&A：常见问题与回答",
+              "description": "你可以通过阅读当前模块快速了解本章重点内容。",
+              "source": "@site/docs/4.应用场景/QA-常见问题与回答.md",
+              "sourceDirName": "4.应用场景",
+              "slug": "/应用场景/QA-常见问题与回答",
+              "permalink": "/docs/应用场景/QA-常见问题与回答",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/4.应用场景/QA-常见问题与回答.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "4.3 更多场景展望",
+                "permalink": "/docs/应用场景/4.3-更多场景展望"
+              },
+              "next": {
+                "title": "5. 实操技巧",
+                "permalink": "/docs/category/5-实操技巧"
+              }
+            },
+            {
+              "unversionedId": "README",
+              "id": "README",
+              "title": "ChatGPT 教程",
+              "description": "Spark闪闪团队出品：ChatGPT 从0到1 系统性学习资料汇总",
+              "source": "@site/docs/README.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/docs/",
+              "draft": false,
+              "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/README.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "description": "Spark闪闪团队出品：ChatGPT 从0到1 系统性学习资料汇总"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "1. 基础概念",
+                "permalink": "/docs/category/1-基础概念"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "README"
+              },
+              {
+                "type": "category",
+                "label": "1. 基础概念",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "基础概念/1.1.-chatgpt"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "基础概念/1.2.-功能简介及市场反响"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "基础概念/1.3.-开始使用"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "基础概念/QA-常见问题与回答"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "基础概念",
+                  "slug": "/category/1-基础概念",
+                  "permalink": "/docs/category/1-基础概念"
+                }
+              },
+              {
+                "type": "category",
+                "label": "2. 底层技术理解",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "底层技术理解/2.1.-小白向的详细原理解释"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "底层技术理解/2.2.-自然语言处理"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "底层技术理解/2.3.-从-GPT1-到-GPT4"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "底层技术理解/2.4.-新范式时代"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "底层技术理解/QA-常见问题与回答"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "底层技术理解",
+                  "slug": "/category/2-底层技术理解",
+                  "permalink": "/docs/category/2-底层技术理解"
+                }
+              },
+              {
+                "type": "category",
+                "label": "3. 行业观察",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "行业观察/3.1.-最新新闻-每日更新"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "行业观察/3.2.-行业概览与发展历程"
+                  },
+                  {
+                    "type": "category",
+                    "label": "3.3.  产业链及相关公司",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/上游-算力与数据"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/中游-模型"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/下游-场景落地"
+                      }
+                    ],
+                    "link": {
+                      "type": "doc",
+                      "id": "行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/README"
+                    }
+                  },
+                  {
+                    "type": "doc",
+                    "id": "行业观察/3.4.-更多视角"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "行业观察/QA-常见问题与回答"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "行业观察",
+                  "slug": "/category/3-行业观察",
+                  "permalink": "/docs/category/3-行业观察"
+                }
+              },
+              {
+                "type": "category",
+                "label": "4. 应用场景",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "4.1 官方应用",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "应用场景/4.1.-官方应用/4.1.1.-官网应用"
+                      }
+                    ],
+                    "link": {
+                      "type": "doc",
+                      "id": "应用场景/4.1.-官方应用/README"
+                    }
+                  },
+                  {
+                    "type": "doc",
+                    "id": "应用场景/4.2.-民间热门应用"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "应用场景/4.3-更多场景展望"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "应用场景/QA-常见问题与回答"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "应用场景",
+                  "slug": "/category/4-应用场景",
+                  "permalink": "/docs/category/4-应用场景"
+                }
+              },
+              {
+                "type": "category",
+                "label": "5. 实操技巧",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "5.1. Prompt 工程",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "实操技巧/5.1.-Prompt-gong-cheng/-basic-prompt-introduction"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "实操技巧/5.1.-Prompt-gong-cheng/-prompt-skills"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "实操技巧/5.1.-Prompt-gong-cheng/-zero-few-shot-prompting"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "实操技巧/5.1.-Prompt-gong-cheng/-chain-of-thought-prompting"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "实操技巧/5.1.-Prompt-gong-cheng/-advanced-skills"
+                      }
+                    ],
+                    "link": {
+                      "type": "doc",
+                      "id": "实操技巧/5.1.-Prompt-gong-cheng/README"
+                    }
+                  },
+                  {
+                    "type": "doc",
+                    "id": "实操技巧/5.2.-langchain-gpt-index"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "实操技巧/5.3.-插件"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "实操技巧",
+                  "slug": "/category/5-实操技巧",
+                  "permalink": "/docs/category/5-实操技巧"
+                }
+              },
+              {
+                "type": "category",
+                "label": "6. 其他",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "其他/6.1.-名词解释"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "其他/6.2.-实用链接"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "其他",
+                  "slug": "/category/6-其他",
+                  "permalink": "/docs/category/6-其他"
+                }
+              },
+              {
+                "type": "category",
+                "label": "参考文档合集",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "参考文档合集/Ben-Lutkevich-自然语言处理-NLP"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "参考文档合集/NLP-模型发展简要史-从-bags-of-words-到-Transformer-家族"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "参考文档合集/OpenAI-CEO-Sam-Altman-2022-07-采访"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "参考文档合集/Transformer-论文逐段精度"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "参考文档合集/Wolfram：ChatGPT在做什么...以及它为什么有效"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "参考文档合集/google-chain-of-thought-paper"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "参考文档合集/pdf-emergent-abilities-of-large-language-models"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "参考文档合集/pdf-sparks-of-artificial-general-intelligence-early-experiments-with-gpt-4"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "参考文档合集/强烈推荐-GPT-GPT-2-GPT-3-论文精读"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "参考文档合集/强烈推荐-通向AGI之路-大型语言模型-LLM-技术精要"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "参考文档合集/数据挖掘-机器学习-自然语言处理这三者是什么关系-这几个怎么入门啊"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "参考文档合集/红杉资本-生成式人工智能-创造一个全新的世界"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "first-blog-post",
+          "metadata": {
+            "permalink": "/blog/first-blog-post",
+            "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/blog/2023-04-01-first-blog-post.md",
+            "source": "@site/blog/2023-04-01-first-blog-post.md",
+            "title": "First Blog Post",
+            "description": "First blog",
+            "date": "2023-04-01T00:00:00.000Z",
+            "formattedDate": "2023年4月1日",
+            "tags": [
+              {
+                "label": "feature",
+                "permalink": "/blog/tags/feature"
+              },
+              {
+                "label": "release",
+                "permalink": "/blog/tags/release"
+              }
+            ],
+            "readingTime": 0.01,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "SparkGPT",
+                "title": "SparkAI Team",
+                "url": "https://github.com/SparkGPT001"
+              }
+            ],
+            "frontMatter": {
+              "slug": "first-blog-post",
+              "title": "First Blog Post",
+              "authors": {
+                "name": "SparkGPT",
+                "title": "SparkAI Team",
+                "url": "https://github.com/SparkGPT001"
+              },
+              "tags": [
+                "feature",
+                "release"
+              ]
+            }
+          },
+          "content": "First blog"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "first-blog-post"
+          ],
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 1,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {
+        "/blog/tags/feature": {
+          "label": "feature",
+          "items": [
+            "first-blog-post"
+          ],
+          "permalink": "/blog/tags/feature",
+          "pages": [
+            {
+              "items": [
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/feature",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/release": {
+          "label": "release",
+          "items": [
+            "first-blog-post"
+          ],
+          "permalink": "/blog/tags/release",
+          "pages": [
+            {
+              "items": [
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/release",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-tailwindcss": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

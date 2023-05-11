@@ -1,0 +1,24 @@
+{
+  "unversionedId": "应用场景/4.1.-官方应用/README",
+  "id": "应用场景/4.1.-官方应用/README",
+  "title": "4.1 官方应用",
+  "description": "",
+  "source": "@site/docs/4.应用场景/4.1.-官方应用/README.md",
+  "sourceDirName": "4.应用场景/4.1.-官方应用",
+  "slug": "/应用场景/4.1.-官方应用/",
+  "permalink": "/docs/应用场景/4.1.-官方应用/",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/4.应用场景/4.1.-官方应用/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "4. 应用场景",
+    "permalink": "/docs/category/4-应用场景"
+  },
+  "next": {
+    "title": "4.1.1 官网案例",
+    "permalink": "/docs/应用场景/4.1.-官方应用/4.1.1.-官网应用"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "2. 底层技术理解",
+  "description": "底层技术理解",
+  "slug": "/category/2-底层技术理解",
+  "permalink": "/docs/category/2-底层技术理解",
+  "navigation": {
+    "previous": {
+      "title": "Q&A：常见问题与回答",
+      "permalink": "/docs/基础概念/QA-常见问题与回答"
+    },
+    "next": {
+      "title": "2.1. 【小白向】详细原理解释",
+      "permalink": "/docs/底层技术理解/2.1.-小白向的详细原理解释"
+    }
+  }
+}

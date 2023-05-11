@@ -1,0 +1,24 @@
+{
+  "unversionedId": "其他/7.1.-名词解释",
+  "id": "其他/7.1.-名词解释",
+  "title": "7.1. 名词解释",
+  "description": "",
+  "source": "@site/docs/7.其他/7.1.-名词解释.md",
+  "sourceDirName": "7.其他",
+  "slug": "/其他/7.1.-名词解释",
+  "permalink": "/docs/其他/7.1.-名词解释",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/7.其他/7.1.-名词解释.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "7. 其他",
+    "permalink": "/docs/category/7-其他"
+  },
+  "next": {
+    "title": "7.2. 实用链接",
+    "permalink": "/docs/其他/7.2.-实用链接"
+  }
+}

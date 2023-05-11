@@ -1,0 +1,283 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "README",
+          "docs": [
+            {
+              "id": "参考文档合集/红杉资本-生成式人工智能-创造一个全新的世界",
+              "path": "/docs/参考文档合集/红杉资本-生成式人工智能-创造一个全新的世界",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "参考文档合集/强烈推荐-通向AGI之路-大型语言模型-LLM-技术精要",
+              "path": "/docs/参考文档合集/强烈推荐-通向AGI之路-大型语言模型-LLM-技术精要",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "参考文档合集/强烈推荐-GPT-GPT-2-GPT-3-论文精读",
+              "path": "/docs/参考文档合集/强烈推荐-GPT-GPT-2-GPT-3-论文精读",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "参考文档合集/数据挖掘-机器学习-自然语言处理这三者是什么关系-这几个怎么入门啊",
+              "path": "/docs/参考文档合集/数据挖掘-机器学习-自然语言处理这三者是什么关系-这几个怎么入门啊",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "参考文档合集/Ben-Lutkevich-自然语言处理-NLP",
+              "path": "/docs/参考文档合集/Ben-Lutkevich-自然语言处理-NLP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "参考文档合集/google-chain-of-thought-paper",
+              "path": "/docs/参考文档合集/google-chain-of-thought-paper",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "参考文档合集/NLP-模型发展简要史-从-bags-of-words-到-Transformer-家族",
+              "path": "/docs/参考文档合集/NLP-模型发展简要史-从-bags-of-words-到-Transformer-家族",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "参考文档合集/OpenAI-CEO-Sam-Altman-2022-07-采访",
+              "path": "/docs/参考文档合集/OpenAI-CEO-Sam-Altman-2022-07-采访",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "参考文档合集/pdf-emergent-abilities-of-large-language-models",
+              "path": "/docs/参考文档合集/pdf-emergent-abilities-of-large-language-models",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "参考文档合集/pdf-sparks-of-artificial-general-intelligence-early-experiments-with-gpt-4",
+              "path": "/docs/参考文档合集/pdf-sparks-of-artificial-general-intelligence-early-experiments-with-gpt-4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "参考文档合集/Transformer-论文逐段精度",
+              "path": "/docs/参考文档合集/Transformer-论文逐段精度",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "参考文档合集/Wolfram：ChatGPT在做什么...以及它为什么有效",
+              "path": "/docs/参考文档合集/Wolfram：ChatGPT在做什么...以及它为什么有效",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "底层技术理解/2.1.-小白向的详细原理解释",
+              "path": "/docs/底层技术理解/2.1.-小白向的详细原理解释",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "底层技术理解/2.2.-自然语言处理",
+              "path": "/docs/底层技术理解/2.2.-自然语言处理",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "底层技术理解/2.3.-从-GPT1-到-GPT4",
+              "path": "/docs/底层技术理解/2.3.-从-GPT1-到-GPT4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "底层技术理解/2.4.-新范式时代",
+              "path": "/docs/底层技术理解/2.4.-新范式时代",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "底层技术理解/QA-常见问题与回答",
+              "path": "/docs/底层技术理解/QA-常见问题与回答",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "基础概念/1.1.-chatgpt",
+              "path": "/docs/基础概念/1.1.-chatgpt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "基础概念/1.2.-功能简介及市场反响",
+              "path": "/docs/基础概念/1.2.-功能简介及市场反响",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "基础概念/1.3.-开始使用",
+              "path": "/docs/基础概念/1.3.-开始使用",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "基础概念/QA-常见问题与回答",
+              "path": "/docs/基础概念/QA-常见问题与回答",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "其他/6.1.-名词解释",
+              "path": "/docs/其他/6.1.-名词解释",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "其他/6.2.-实用链接",
+              "path": "/docs/其他/6.2.-实用链接",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "实操技巧/5.1.-Prompt-gong-cheng/-advanced-skills",
+              "path": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-advanced-skills",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "实操技巧/5.1.-Prompt-gong-cheng/-basic-prompt-introduction",
+              "path": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-basic-prompt-introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "实操技巧/5.1.-Prompt-gong-cheng/-chain-of-thought-prompting",
+              "path": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-chain-of-thought-prompting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "实操技巧/5.1.-Prompt-gong-cheng/-prompt-skills",
+              "path": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-prompt-skills",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "实操技巧/5.1.-Prompt-gong-cheng/-zero-few-shot-prompting",
+              "path": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-zero-few-shot-prompting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "实操技巧/5.1.-Prompt-gong-cheng/README",
+              "path": "/docs/实操技巧/5.1.-Prompt-gong-cheng/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "实操技巧/5.2.-langchain-gpt-index",
+              "path": "/docs/实操技巧/5.2.-langchain-gpt-index",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "实操技巧/5.3.-插件",
+              "path": "/docs/实操技巧/5.3.-插件",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "行业观察/3.1.-最新新闻-每日更新",
+              "path": "/docs/行业观察/3.1.-最新新闻-每日更新",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "行业观察/3.2.-行业概览与发展历程",
+              "path": "/docs/行业观察/3.2.-行业概览与发展历程",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/上游-算力与数据",
+              "path": "/docs/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/上游-算力与数据",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/下游-场景落地",
+              "path": "/docs/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/下游-场景落地",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/中游-模型",
+              "path": "/docs/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/中游-模型",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/README",
+              "path": "/docs/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "行业观察/3.4.-更多视角",
+              "path": "/docs/行业观察/3.4.-更多视角",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "行业观察/QA-常见问题与回答",
+              "path": "/docs/行业观察/QA-常见问题与回答",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "应用场景/4.1.-官方应用/4.1.1.-官网应用",
+              "path": "/docs/应用场景/4.1.-官方应用/4.1.1.-官网应用",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "应用场景/4.1.-官方应用/README",
+              "path": "/docs/应用场景/4.1.-官方应用/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "应用场景/4.2.-民间热门应用",
+              "path": "/docs/应用场景/4.2.-民间热门应用",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "应用场景/4.3-更多场景展望",
+              "path": "/docs/应用场景/4.3-更多场景展望",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "应用场景/QA-常见问题与回答",
+              "path": "/docs/应用场景/QA-常见问题与回答",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "README",
+              "path": "/docs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/1-基础概念",
+              "path": "/docs/category/1-基础概念",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/2-底层技术理解",
+              "path": "/docs/category/2-底层技术理解",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/3-行业观察",
+              "path": "/docs/category/3-行业观察",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/4-应用场景",
+              "path": "/docs/category/4-应用场景",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/5-实操技巧",
+              "path": "/docs/category/5-实操技巧",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/6-其他",
+              "path": "/docs/category/6-其他",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/",
+                "label": "README"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

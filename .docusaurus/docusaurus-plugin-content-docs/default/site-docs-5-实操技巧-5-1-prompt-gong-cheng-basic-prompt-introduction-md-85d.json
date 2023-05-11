@@ -1,0 +1,27 @@
+{
+  "unversionedId": "实操技巧/5.1.-Prompt-gong-cheng/-basic-prompt-introduction",
+  "id": "实操技巧/5.1.-Prompt-gong-cheng/-basic-prompt-introduction",
+  "title": "5.1.1. Prompt 从 0 到 1",
+  "description": "Prompting Engineer 提示工程是一种相对较新的学科，用于开发和优化提示，以高效地使用语言模型（LM）进行各种应用和研究主题。提示工程技能有助于更好地理解大型语言模型（LLM）的能力和局限性。研究人员使用提示工程来改善LLM在各种常见和复杂任务（如问答和算术推理）上的能力。开发人员使用提示工程来设计与LLM和其他工具交互的稳健有效的提示技术。",
+  "source": "@site/docs/5.实操技巧/5.1.-Prompt-gong-cheng/-basic-prompt-introduction.md",
+  "sourceDirName": "5.实操技巧/5.1.-Prompt-gong-cheng",
+  "slug": "/实操技巧/5.1.-Prompt-gong-cheng/-basic-prompt-introduction",
+  "permalink": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-basic-prompt-introduction",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/5.实操技巧/5.1.-Prompt-gong-cheng/-basic-prompt-introduction.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "5.1. Prompt 工程",
+    "permalink": "/docs/实操技巧/5.1.-Prompt-gong-cheng/"
+  },
+  "next": {
+    "title": "5.1.2. Prompt 技巧",
+    "permalink": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-prompt-skills"
+  }
+}

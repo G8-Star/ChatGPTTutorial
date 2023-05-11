@@ -1,0 +1,24 @@
+{
+  "unversionedId": "基础概念/1.1.-chatgpt",
+  "id": "基础概念/1.1.-chatgpt",
+  "title": "1.1. ChatGPT",
+  "description": "ChatGPT 是由 OpenAI 开发的尖端对话人工智能产品，基于 GPT 系列语言模型设计，旨在生成类似人类的自然语言应答。ChatGPT 因其生成连贯、上下文相关的应答能力而备受欢迎。",
+  "source": "@site/docs/1.基础概念/1.1.-chatgpt.md",
+  "sourceDirName": "1.基础概念",
+  "slug": "/基础概念/1.1.-chatgpt",
+  "permalink": "/docs/基础概念/1.1.-chatgpt",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/1.基础概念/1.1.-chatgpt.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "1. 基础概念",
+    "permalink": "/docs/category/1-基础概念"
+  },
+  "next": {
+    "title": "1.2. 功能简介及市场反响",
+    "permalink": "/docs/基础概念/1.2.-功能简介及市场反响"
+  }
+}

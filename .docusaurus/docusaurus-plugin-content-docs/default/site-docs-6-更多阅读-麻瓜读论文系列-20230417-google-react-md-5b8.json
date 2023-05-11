@@ -1,0 +1,25 @@
+{
+  "unversionedId": "更多阅读/麻瓜读论文系列/google-react",
+  "id": "更多阅读/麻瓜读论文系列/google-react",
+  "title": "【麻瓜读论文】LLM 升级到 AGI 的可能必备 Prompt 框架 —— ReAct",
+  "description": "这里不会过多地关注技术/算法/数学细节，而是更多地关注「发生了什么」、「怎么做到的」、「可能的影响」等。",
+  "source": "@site/docs/6.更多阅读/麻瓜读论文系列/20230417-google-react.md",
+  "sourceDirName": "6.更多阅读/麻瓜读论文系列",
+  "slug": "/更多阅读/麻瓜读论文系列/google-react",
+  "permalink": "/docs/更多阅读/麻瓜读论文系列/google-react",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPT Tutorial/edit/main/docs/6.更多阅读/麻瓜读论文系列/20230417-google-react.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 20230417,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "【麻瓜读论文】斯坦福用ChatGPT造了25个NPC模拟人生",
+    "permalink": "/docs/更多阅读/麻瓜读论文系列/stanford-npc"
+  },
+  "next": {
+    "title": "【应用】BloombergGPT：金融领域的大语言模型",
+    "permalink": "/docs/更多阅读/麻瓜读论文系列/bloomberg-bloomberggpt"
+  }
+}

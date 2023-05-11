@@ -1,0 +1,24 @@
+{
+  "unversionedId": "底层技术理解/2.3.-从-GPT1-到-GPT4",
+  "id": "底层技术理解/2.3.-从-GPT1-到-GPT4",
+  "title": "2.3. 从 GPT1 到 GPT4",
+  "description": "Untitled",
+  "source": "@site/docs/2.底层技术理解/2.3.-从-GPT1-到-GPT4.md",
+  "sourceDirName": "2.底层技术理解",
+  "slug": "/底层技术理解/2.3.-从-GPT1-到-GPT4",
+  "permalink": "/docs/底层技术理解/2.3.-从-GPT1-到-GPT4",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPT Tutorial/edit/main/docs/2.底层技术理解/2.3.-从-GPT1-到-GPT4.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2.1. 自然语言处理（NLP, Natural Language Processing）",
+    "permalink": "/docs/底层技术理解/2.2.-自然语言处理"
+  },
+  "next": {
+    "title": "2.4. 新范式时代：LLM、AGI 与展望（2020 -）",
+    "permalink": "/docs/底层技术理解/2.4.-新范式时代"
+  }
+}

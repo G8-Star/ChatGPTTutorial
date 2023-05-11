@@ -1,0 +1,24 @@
+{
+  "unversionedId": "参考文档合集/pdf-emergent-abilities-of-large-language-models",
+  "id": "参考文档合集/pdf-emergent-abilities-of-large-language-models",
+  "title": "PDF：Emergent Abilities of Large Language Models",
+  "description": "Download",
+  "source": "@site/docs/参考文档合集/pdf-emergent-abilities-of-large-language-models.md",
+  "sourceDirName": "参考文档合集",
+  "slug": "/参考文档合集/pdf-emergent-abilities-of-large-language-models",
+  "permalink": "/docs/参考文档合集/pdf-emergent-abilities-of-large-language-models",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPT Tutorial/edit/main/docs/参考文档合集/pdf-emergent-abilities-of-large-language-models.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "谷歌：链式思维提示(COT Prompting)引发大型语言模型的推理",
+    "permalink": "/docs/参考文档合集/google-chain-of-thought-paper"
+  },
+  "next": {
+    "title": "PDF：Sparks of Artificial General Intelligence: Early experiments with GPT-4",
+    "permalink": "/docs/参考文档合集/pdf-sparks-of-artificial-general-intelligence-early-experiments-with-gpt-4"
+  }
+}

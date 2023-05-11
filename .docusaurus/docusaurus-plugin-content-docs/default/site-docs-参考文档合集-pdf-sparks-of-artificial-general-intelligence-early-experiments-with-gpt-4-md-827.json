@@ -1,0 +1,26 @@
+{
+  "unversionedId": "参考文档合集/pdf-sparks-of-artificial-general-intelligence-early-experiments-with-gpt-4",
+  "id": "参考文档合集/pdf-sparks-of-artificial-general-intelligence-early-experiments-with-gpt-4",
+  "title": "PDF：Sparks of Artificial General Intelligence: Early experiments with GPT-4",
+  "description": "扩展阅读",
+  "source": "@site/docs/参考文档合集/pdf-sparks-of-artificial-general-intelligence-early-experiments-with-gpt-4.md",
+  "sourceDirName": "参考文档合集",
+  "slug": "/参考文档合集/pdf-sparks-of-artificial-general-intelligence-early-experiments-with-gpt-4",
+  "permalink": "/docs/参考文档合集/pdf-sparks-of-artificial-general-intelligence-early-experiments-with-gpt-4",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/参考文档合集/pdf-sparks-of-artificial-general-intelligence-early-experiments-with-gpt-4.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "扩展阅读"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PDF：Emergent Abilities of Large Language Models",
+    "permalink": "/docs/参考文档合集/pdf-emergent-abilities-of-large-language-models"
+  },
+  "next": {
+    "title": "【强烈推荐】GPT，GPT-2，GPT-3 论文精读",
+    "permalink": "/docs/参考文档合集/强烈推荐-GPT-GPT-2-GPT-3-论文精读"
+  }
+}

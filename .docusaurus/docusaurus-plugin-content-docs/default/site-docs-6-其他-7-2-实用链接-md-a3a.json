@@ -1,0 +1,24 @@
+{
+  "unversionedId": "其他/7.2.-实用链接",
+  "id": "其他/7.2.-实用链接",
+  "title": "7.2. 实用链接",
+  "description": "论文",
+  "source": "@site/docs/6.其他/7.2.-实用链接.md",
+  "sourceDirName": "6.其他",
+  "slug": "/其他/7.2.-实用链接",
+  "permalink": "/docs/其他/7.2.-实用链接",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPT Tutorial/edit/main/docs/6.其他/7.2.-实用链接.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "7.1. 名词解释",
+    "permalink": "/docs/其他/6.1.-名词解释"
+  },
+  "next": {
+    "title": "Ben Lutkevich：自然语言处理 NLP",
+    "permalink": "/docs/参考文档合集/Ben-Lutkevich-自然语言处理-NLP"
+  }
+}

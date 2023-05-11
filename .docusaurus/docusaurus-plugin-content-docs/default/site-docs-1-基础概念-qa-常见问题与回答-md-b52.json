@@ -1,0 +1,24 @@
+{
+  "unversionedId": "基础概念/QA-常见问题与回答",
+  "id": "基础概念/QA-常见问题与回答",
+  "title": "Q&A：常见问题与回答",
+  "description": "你可以通过阅读当前模块快速了解本章重点内容。",
+  "source": "@site/docs/1.基础概念/QA-常见问题与回答.md",
+  "sourceDirName": "1.基础概念",
+  "slug": "/基础概念/QA-常见问题与回答",
+  "permalink": "/docs/基础概念/QA-常见问题与回答",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPT Tutorial/edit/main/docs/1.基础概念/QA-常见问题与回答.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "1.3. 开始使用",
+    "permalink": "/docs/基础概念/1.3.-开始使用"
+  },
+  "next": {
+    "title": "2. 底层技术理解",
+    "permalink": "/docs/category/2-底层技术理解"
+  }
+}

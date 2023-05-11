@@ -1,0 +1,27 @@
+{
+  "unversionedId": "实操技巧/5.1.-Prompt-gong-cheng/-prompt-skills",
+  "id": "实操技巧/5.1.-Prompt-gong-cheng/-prompt-skills",
+  "title": "5.1.2. Prompt 技巧",
+  "description": "接下来我们来看看目前 ChatGPT 使用上的一些常见的技巧，如果你想在看具体技巧前就理解这些技巧的原理，可以先阅读后面的内容，读完所有进阶知识后你会对这些技巧有更深的理解。",
+  "source": "@site/docs/5.实操技巧/5.1.-Prompt-gong-cheng/-prompt-skills.md",
+  "sourceDirName": "5.实操技巧/5.1.-Prompt-gong-cheng",
+  "slug": "/实操技巧/5.1.-Prompt-gong-cheng/-prompt-skills",
+  "permalink": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-prompt-skills",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/5.实操技巧/5.1.-Prompt-gong-cheng/-prompt-skills.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "5.1.1. Prompt 从 0 到 1",
+    "permalink": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-basic-prompt-introduction"
+  },
+  "next": {
+    "title": "5.1.3. Zero/Few-Shot Prompting",
+    "permalink": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-zero-few-shot-prompting"
+  }
+}

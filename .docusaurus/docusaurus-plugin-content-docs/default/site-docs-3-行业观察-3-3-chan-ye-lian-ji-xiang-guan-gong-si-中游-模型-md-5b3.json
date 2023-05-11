@@ -1,0 +1,27 @@
+{
+  "unversionedId": "行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/中游-模型",
+  "id": "行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/中游-模型",
+  "title": "中游：模型",
+  "description": "在认为未来少数 AGI 是会一统天下、形成类似于如今 iOS、Android 的局面的前提下，有人说模型的产业里会有三张船票，OpenAI 已经拿到一张了，在中国大家会去抢一张，世界范围内还会去抢一张。",
+  "source": "@site/docs/3.行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/中游-模型.md",
+  "sourceDirName": "3.行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si",
+  "slug": "/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/中游-模型",
+  "permalink": "/docs/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/中游-模型",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPT Tutorial/edit/main/docs/3.行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/中游-模型.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "上游：算力与数据",
+    "permalink": "/docs/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/上游-算力与数据"
+  },
+  "next": {
+    "title": "下游：场景落地",
+    "permalink": "/docs/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/下游-场景落地"
+  }
+}

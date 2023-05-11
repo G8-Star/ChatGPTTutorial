@@ -1,0 +1,26 @@
+{
+  "unversionedId": "参考文档合集/Transformer-论文逐段精度",
+  "id": "参考文档合集/Transformer-论文逐段精度",
+  "title": "Transformer 论文逐段精度",
+  "description": "扩展阅读",
+  "source": "@site/docs/参考文档合集/Transformer-论文逐段精度.md",
+  "sourceDirName": "参考文档合集",
+  "slug": "/参考文档合集/Transformer-论文逐段精度",
+  "permalink": "/docs/参考文档合集/Transformer-论文逐段精度",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPT Tutorial/edit/main/docs/参考文档合集/Transformer-论文逐段精度.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "扩展阅读"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "OpenAI CEO Sam Altman 2022.07 采访",
+    "permalink": "/docs/参考文档合集/OpenAI-CEO-Sam-Altman-2022-07-采访"
+  },
+  "next": {
+    "title": "Wolfram：ChatGPT在做什么...以及为什么有效?",
+    "permalink": "/docs/参考文档合集/Wolfram：ChatGPT在做什么...以及它为什么有效"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "实操技巧/5.2.-langchain-gpt-index",
+  "id": "实操技巧/5.2.-langchain-gpt-index",
+  "title": "5.2. LangChain/GPT index",
+  "description": "",
+  "source": "@site/docs/5.实操技巧/5.2.-langchain-gpt-index.md",
+  "sourceDirName": "5.实操技巧",
+  "slug": "/实操技巧/5.2.-langchain-gpt-index",
+  "permalink": "/docs/实操技巧/5.2.-langchain-gpt-index",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/5.实操技巧/5.2.-langchain-gpt-index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "5.1.5. 更多高阶技巧",
+    "permalink": "/docs/实操技巧/5.1.-Prompt-gong-cheng/-advanced-skills"
+  },
+  "next": {
+    "title": "5.3. 插件",
+    "permalink": "/docs/实操技巧/5.3.-插件"
+  }
+}

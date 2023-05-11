@@ -1,0 +1,24 @@
+{
+  "unversionedId": "参考文档合集/Wolfram：ChatGPT在做什么...以及它为什么有效",
+  "id": "参考文档合集/Wolfram：ChatGPT在做什么...以及它为什么有效",
+  "title": "Wolfram：ChatGPT在做什么...以及为什么有效?",
+  "description": "原文链接：",
+  "source": "@site/docs/参考文档合集/Wolfram：ChatGPT在做什么...以及它为什么有效.md",
+  "sourceDirName": "参考文档合集",
+  "slug": "/参考文档合集/Wolfram：ChatGPT在做什么...以及它为什么有效",
+  "permalink": "/docs/参考文档合集/Wolfram：ChatGPT在做什么...以及它为什么有效",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/参考文档合集/Wolfram：ChatGPT在做什么...以及它为什么有效.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Transformer 论文逐段精度",
+    "permalink": "/docs/参考文档合集/Transformer-论文逐段精度"
+  },
+  "next": {
+    "title": "谷歌：链式思维提示(COT Prompting)引发大型语言模型的推理",
+    "permalink": "/docs/参考文档合集/google-chain-of-thought-paper"
+  }
+}

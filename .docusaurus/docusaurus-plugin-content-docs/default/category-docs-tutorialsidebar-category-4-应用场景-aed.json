@@ -1,0 +1,16 @@
+{
+  "title": "4. 应用场景",
+  "description": "应用场景",
+  "slug": "/category/4-应用场景",
+  "permalink": "/docs/category/4-应用场景",
+  "navigation": {
+    "previous": {
+      "title": "Q&A：常见问题与回答",
+      "permalink": "/docs/行业观察/QA-常见问题与回答"
+    },
+    "next": {
+      "title": "4.1 官方应用",
+      "permalink": "/docs/应用场景/4.1.-官方应用/"
+    }
+  }
+}

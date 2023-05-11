@@ -1,0 +1,16 @@
+{
+  "title": "5. 实操技巧",
+  "description": "实操技巧",
+  "slug": "/category/5-实操技巧",
+  "permalink": "/docs/category/5-实操技巧",
+  "navigation": {
+    "previous": {
+      "title": "Q&A：常见问题与回答",
+      "permalink": "/docs/应用场景/QA-常见问题与回答"
+    },
+    "next": {
+      "title": "5.1. Prompt 工程",
+      "permalink": "/docs/实操技巧/5.1.-Prompt-gong-cheng/"
+    }
+  }
+}

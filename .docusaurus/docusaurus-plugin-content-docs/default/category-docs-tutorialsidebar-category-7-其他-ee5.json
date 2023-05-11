@@ -1,0 +1,16 @@
+{
+  "title": "7. 其他",
+  "description": "其他",
+  "slug": "/category/7-其他",
+  "permalink": "/docs/category/7-其他",
+  "navigation": {
+    "previous": {
+      "title": "5.3. 插件",
+      "permalink": "/docs/实操技巧/5.3.-插件"
+    },
+    "next": {
+      "title": "7.1. 名词解释",
+      "permalink": "/docs/其他/6.1.-名词解释"
+    }
+  }
+}

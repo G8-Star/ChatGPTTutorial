@@ -1,0 +1,26 @@
+{
+  "unversionedId": "参考文档合集/强烈推荐-通向AGI之路-大型语言模型-LLM-技术精要",
+  "id": "参考文档合集/强烈推荐-通向AGI之路-大型语言模型-LLM-技术精要",
+  "title": "【强烈推荐】通向AGI之路：大型语言模型（LLM）技术精要",
+  "description": "扩展阅读",
+  "source": "@site/docs/参考文档合集/强烈推荐-通向AGI之路-大型语言模型-LLM-技术精要.md",
+  "sourceDirName": "参考文档合集",
+  "slug": "/参考文档合集/强烈推荐-通向AGI之路-大型语言模型-LLM-技术精要",
+  "permalink": "/docs/参考文档合集/强烈推荐-通向AGI之路-大型语言模型-LLM-技术精要",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/参考文档合集/强烈推荐-通向AGI之路-大型语言模型-LLM-技术精要.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "扩展阅读"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "【强烈推荐】GPT，GPT-2，GPT-3 论文精读",
+    "permalink": "/docs/参考文档合集/强烈推荐-GPT-GPT-2-GPT-3-论文精读"
+  },
+  "next": {
+    "title": "数据挖掘、机器学习、自然语言处理这三者是什么关系？这几个怎么入门啊？ - White Pillow的回答 - 知乎",
+    "permalink": "/docs/参考文档合集/数据挖掘-机器学习-自然语言处理这三者是什么关系-这几个怎么入门啊"
+  }
+}

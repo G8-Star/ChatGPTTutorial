@@ -1,0 +1,24 @@
+{
+  "unversionedId": "行业观察/3.1.-最新新闻-每日更新",
+  "id": "行业观察/3.1.-最新新闻-每日更新",
+  "title": "3.1. 最新新闻（每日更新）",
+  "description": "请阅读 GPT新闻区",
+  "source": "@site/docs/3.行业观察/3.1.-最新新闻-每日更新.md",
+  "sourceDirName": "3.行业观察",
+  "slug": "/行业观察/3.1.-最新新闻-每日更新",
+  "permalink": "/docs/行业观察/3.1.-最新新闻-每日更新",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/3.行业观察/3.1.-最新新闻-每日更新.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "3. 行业观察",
+    "permalink": "/docs/category/3-行业观察"
+  },
+  "next": {
+    "title": "3.2. 行业概览与发展历程",
+    "permalink": "/docs/行业观察/3.2.-行业概览与发展历程"
+  }
+}

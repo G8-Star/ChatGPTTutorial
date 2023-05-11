@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/first-blog-post",
+  "editUrl": "https://github.com/G8-Star/ChatGPT Tutorial/edit/main/blog/2023-04-01-first-blog-post.md",
+  "source": "@site/blog/2023-04-01-first-blog-post.md",
+  "title": "First Blog Post",
+  "description": "First blog",
+  "date": "2023-04-01T00:00:00.000Z",
+  "formattedDate": "2023年4月1日",
+  "tags": [
+    {
+      "label": "feature",
+      "permalink": "/blog/tags/feature"
+    },
+    {
+      "label": "release",
+      "permalink": "/blog/tags/release"
+    }
+  ],
+  "readingTime": 0.01,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "SparkGPT",
+      "title": "SparkAI Team",
+      "url": "https://github.com/SparkGPT001"
+    }
+  ],
+  "frontMatter": {
+    "slug": "first-blog-post",
+    "title": "First Blog Post",
+    "authors": {
+      "name": "SparkGPT",
+      "title": "SparkAI Team",
+      "url": "https://github.com/SparkGPT001"
+    },
+    "tags": [
+      "feature",
+      "release"
+    ]
+  }
+}

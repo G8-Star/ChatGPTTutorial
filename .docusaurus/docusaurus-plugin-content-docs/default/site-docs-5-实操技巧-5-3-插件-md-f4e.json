@@ -1,0 +1,24 @@
+{
+  "unversionedId": "实操技巧/5.3.-插件",
+  "id": "实操技巧/5.3.-插件",
+  "title": "5.3. 插件",
+  "description": "",
+  "source": "@site/docs/5.实操技巧/5.3.-插件.md",
+  "sourceDirName": "5.实操技巧",
+  "slug": "/实操技巧/5.3.-插件",
+  "permalink": "/docs/实操技巧/5.3.-插件",
+  "draft": false,
+  "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/docs/5.实操技巧/5.3.-插件.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "5.2. LangChain/GPT index",
+    "permalink": "/docs/实操技巧/5.2.-langchain-gpt-index"
+  },
+  "next": {
+    "title": "6. 其他",
+    "permalink": "/docs/category/6-其他"
+  }
+}

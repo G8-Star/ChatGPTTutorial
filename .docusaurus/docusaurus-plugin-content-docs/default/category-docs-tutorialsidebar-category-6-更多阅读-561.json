@@ -1,0 +1,16 @@
+{
+  "title": "6. 更多阅读",
+  "description": "更多阅读",
+  "slug": "/category/6-更多阅读",
+  "permalink": "/docs/category/6-更多阅读",
+  "navigation": {
+    "previous": {
+      "title": "5.3. 插件",
+      "permalink": "/docs/实操技巧/5.3.-插件"
+    },
+    "next": {
+      "title": "【麻瓜读论文】斯坦福用ChatGPT造了25个NPC模拟人生",
+      "permalink": "/docs/更多阅读/麻瓜读论文系列/stanford-npc"
+    }
+  }
+}

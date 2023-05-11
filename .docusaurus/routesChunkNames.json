@@ -1,0 +1,334 @@
+{
+  "/__docusaurus/debug-96d": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-41-b-1c2"
+    }
+  },
+  "/__docusaurus/debug/config-a35": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-41-b-1c2"
+    }
+  },
+  "/__docusaurus/debug/content-c8b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-41-b-1c2"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-fdd": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-41-b-1c2"
+    }
+  },
+  "/__docusaurus/debug/metadata-0ac": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-41-b-1c2"
+    }
+  },
+  "/__docusaurus/debug/registry-83a": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-41-b-1c2"
+    }
+  },
+  "/__docusaurus/debug/routes-90b": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-41-b-1c2"
+    }
+  },
+  "/blog-571": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blog-50-f-2ab"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-343-9ca"
+      }
+    ],
+    "metadata": "metadata---blogb-2-b-df1"
+  },
+  "/blog/archive-655": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---blog-50-f-2ab"
+    },
+    "archive": "archive---blog-archiveb-2-f-393"
+  },
+  "/blog/first-blog-post-709": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-50-f-2ab"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-first-blog-post-1-fd-757"
+  },
+  "/blog/tags-fe9": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---blog-50-f-2ab"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "tags": "tags---blog-tagsa-70-da2"
+  },
+  "/blog/tags/feature-5ff": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-50-f-2ab"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-343-9ca"
+      }
+    ],
+    "tag": "tag---blog-tags-feature-832-f6d",
+    "listMetadata": "listMetadata---blog-tags-featurefb-0-41c"
+  },
+  "/blog/tags/release-640": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-50-f-2ab"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-343-9ca"
+      }
+    ],
+    "tag": "tag---blog-tags-release-83-d-f00",
+    "listMetadata": "listMetadata---blog-tags-release-9-c-0-527"
+  },
+  "/markdown-page-28c": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-page-9-d-6-433"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-4ab": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---docs-2-f-4-5e1"
+    },
+    "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/-6ce": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-233-467"
+  },
+  "/docs/参考文档合集/红杉资本-生成式人工智能-创造一个全新的世界-1a7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-参考文档合集-红杉资本-生成式人工智能-创造一个全新的世界bd-7-724"
+  },
+  "/docs/参考文档合集/强烈推荐-通向AGI之路-大型语言模型-LLM-技术精要-b37": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-参考文档合集-强烈推荐-通向agi之路-大型语言模型-llm-技术精要-1-e-0-4d8"
+  },
+  "/docs/参考文档合集/强烈推荐-GPT-GPT-2-GPT-3-论文精读-183": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-参考文档合集-强烈推荐-gpt-gpt-2-gpt-3-论文精读c-17-5b9"
+  },
+  "/docs/参考文档合集/数据挖掘-机器学习-自然语言处理这三者是什么关系-这几个怎么入门啊-2fe": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-参考文档合集-数据挖掘-机器学习-自然语言处理这三者是什么关系-这几个怎么入门啊f-2-c-456"
+  },
+  "/docs/参考文档合集/Ben-Lutkevich-自然语言处理-NLP-403": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-参考文档合集-ben-lutkevich-自然语言处理-nl-pc-5-a-7f0"
+  },
+  "/docs/参考文档合集/google-chain-of-thought-paper-515": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-参考文档合集-google-chain-of-thought-paperec-1-415"
+  },
+  "/docs/参考文档合集/NLP-模型发展简要史-从-bags-of-words-到-Transformer-家族-bd6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-参考文档合集-nlp-模型发展简要史-从-bags-of-words-到-transformer-家族-0-d-0-38f"
+  },
+  "/docs/参考文档合集/OpenAI-CEO-Sam-Altman-2022-07-采访-934": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-参考文档合集-open-ai-ceo-sam-altman-2022-07-采访-2-ee-1e5"
+  },
+  "/docs/参考文档合集/pdf-emergent-abilities-of-large-language-models-fdf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-参考文档合集-pdf-emergent-abilities-of-large-language-modelsc-62-41a"
+  },
+  "/docs/参考文档合集/pdf-sparks-of-artificial-general-intelligence-early-experiments-with-gpt-4-631": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-参考文档合集-pdf-sparks-of-artificial-general-intelligence-early-experiments-with-gpt-4827-b8a"
+  },
+  "/docs/参考文档合集/Transformer-论文逐段精度-b85": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-参考文档合集-transformer-论文逐段精度eea-c51"
+  },
+  "/docs/参考文档合集/Wolfram：ChatGPT在做什么...以及它为什么有效-07b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-参考文档合集-wolfram：-chat-gpt在做什么-以及它为什么有效-862-ec4"
+  },
+  "/docs/底层技术理解/2.1.-小白向的详细原理解释-6fb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-底层技术理解-2-1-小白向的详细原理解释d-5-c-8ef"
+  },
+  "/docs/底层技术理解/2.2.-自然语言处理-e4b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-底层技术理解-2-2-自然语言处理dea-f0a"
+  },
+  "/docs/底层技术理解/2.3.-从-GPT1-到-GPT4-c9a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-底层技术理解-2-3-从-gpt-1-到-gpt-47-aa-690"
+  },
+  "/docs/底层技术理解/2.4.-新范式时代-e0e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-底层技术理解-2-4-新范式时代ef-5-955"
+  },
+  "/docs/底层技术理解/QA-常见问题与回答-54e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-底层技术理解-qa-常见问题与回答-5-dd-16c"
+  },
+  "/docs/基础概念/1.1.-chatgpt-aa8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-基础概念-1-1-chatgpt-1-b-3-0be"
+  },
+  "/docs/基础概念/1.2.-功能简介及市场反响-0f2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-基础概念-1-2-功能简介及市场反响-64-f-22f"
+  },
+  "/docs/基础概念/1.3.-开始使用-8cc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-基础概念-1-3-开始使用db-2-0c3"
+  },
+  "/docs/基础概念/QA-常见问题与回答-2c0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-基础概念-qa-常见问题与回答b-52-edb"
+  },
+  "/docs/其他/6.1.-名词解释-7b6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-其他-6-1-名词解释-475-b94"
+  },
+  "/docs/其他/6.2.-实用链接-837": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-其他-6-2-实用链接-69-a-ab9"
+  },
+  "/docs/实操技巧/5.1.-Prompt-gong-cheng/-397": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-实操技巧-5-1-prompt-gong-cheng-c-8-b-64b"
+  },
+  "/docs/实操技巧/5.1.-Prompt-gong-cheng/-advanced-skills-84b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-实操技巧-5-1-prompt-gong-cheng-advanced-skills-635-481"
+  },
+  "/docs/实操技巧/5.1.-Prompt-gong-cheng/-basic-prompt-introduction-c04": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-实操技巧-5-1-prompt-gong-cheng-basic-prompt-introduction-85-d-13f"
+  },
+  "/docs/实操技巧/5.1.-Prompt-gong-cheng/-chain-of-thought-prompting-5ba": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-实操技巧-5-1-prompt-gong-cheng-chain-of-thought-promptingd-9-e-909"
+  },
+  "/docs/实操技巧/5.1.-Prompt-gong-cheng/-prompt-skills-e6d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-实操技巧-5-1-prompt-gong-cheng-prompt-skills-1-a-2-872"
+  },
+  "/docs/实操技巧/5.1.-Prompt-gong-cheng/-zero-few-shot-prompting-294": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-实操技巧-5-1-prompt-gong-cheng-zero-few-shot-prompting-43-d-f14"
+  },
+  "/docs/实操技巧/5.2.-langchain-gpt-index-465": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-实操技巧-5-2-langchain-gpt-indexa-6-e-4f5"
+  },
+  "/docs/实操技巧/5.3.-插件-8d2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-实操技巧-5-3-插件f-4-e-60e"
+  },
+  "/docs/行业观察/3.1.-最新新闻-每日更新-ccc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-行业观察-3-1-最新新闻-每日更新-6-fe-2de"
+  },
+  "/docs/行业观察/3.2.-行业概览与发展历程-de5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-行业观察-3-2-行业概览与发展历程-23-a-2ab"
+  },
+  "/docs/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/-e9d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-行业观察-3-3-chan-ye-lian-ji-xiang-guan-gong-si-ae-4-0b0"
+  },
+  "/docs/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/上游-算力与数据-2ff": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-行业观察-3-3-chan-ye-lian-ji-xiang-guan-gong-si-上游-算力与数据c-90-566"
+  },
+  "/docs/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/下游-场景落地-2e5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-行业观察-3-3-chan-ye-lian-ji-xiang-guan-gong-si-下游-场景落地bda-c4a"
+  },
+  "/docs/行业观察/3.3.-chan-ye-lian-ji-xiang-guan-gong-si/中游-模型-b1d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-行业观察-3-3-chan-ye-lian-ji-xiang-guan-gong-si-中游-模型-5-b-3-566"
+  },
+  "/docs/行业观察/3.4.-更多视角-b56": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-行业观察-3-4-更多视角-225-c97"
+  },
+  "/docs/行业观察/QA-常见问题与回答-f68": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-行业观察-qa-常见问题与回答f-38-8c0"
+  },
+  "/docs/应用场景/4.1.-官方应用/-fb1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-应用场景-4-1-官方应用-be-7-2e8"
+  },
+  "/docs/应用场景/4.1.-官方应用/4.1.1.-官网应用-384": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-应用场景-4-1-官方应用-4-1-1-官网应用-1-b-7-e49"
+  },
+  "/docs/应用场景/4.2.-民间热门应用-c27": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-应用场景-4-2-民间热门应用fc-1-b5a"
+  },
+  "/docs/应用场景/4.3-更多场景展望-35e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-应用场景-4-3-更多场景展望-419-099"
+  },
+  "/docs/应用场景/QA-常见问题与回答-4c9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-应用场景-qa-常见问题与回答-48-c-1dc"
+  },
+  "/docs/category/1-基础概念-0aa": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-1-基础概念-1-ea-f05"
+  },
+  "/docs/category/2-底层技术理解-42e": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-2-底层技术理解-4-ed-e95"
+  },
+  "/docs/category/3-行业观察-c42": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-3-行业观察c-83-eca"
+  },
+  "/docs/category/4-应用场景-04e": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-4-应用场景f-75-323"
+  },
+  "/docs/category/5-实操技巧-a14": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-5-实操技巧c-25-293"
+  },
+  "/docs/category/6-其他-614": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-6-其他dfb-6c6"
+  },
+  "/-488": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---markdown-page-9-d-6-433"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}
