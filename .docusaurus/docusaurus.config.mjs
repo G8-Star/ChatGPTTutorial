@@ -27,11 +27,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "E:\\ChatGPT Tutorial\\sidebars.js",
-          "editUrl": "https://github.com/G8-Star/ChatGPT Tutorial/edit/main/"
+          "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/G8-Star/ChatGPT Tutorial/edit/main/"
+          "editUrl": "https://github.com/G8-Star/ChatGPTTutorial/edit/main/"
         },
         "theme": {
           "customCss": "E:\\ChatGPT Tutorial\\src\\css\\custom.css"
@@ -62,7 +62,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/G8-Star/ChatGPT Tutorial/",
+          "href": "https://github.com/G8-Star/ChatGPTTutorial/",
           "label": "GitHub",
           "position": "right"
         }
