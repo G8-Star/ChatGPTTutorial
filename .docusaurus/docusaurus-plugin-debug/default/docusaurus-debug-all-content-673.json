@@ -1113,7 +1113,7 @@
               "unversionedId": "README",
               "id": "README",
               "title": "ChatGPT 教程",
-              "description": "Spark闪闪团队出品：ChatGPT 从0到1 系统性学习资料汇总",
+              "description": "ChatGPT 从入门到收益资料汇总",
               "source": "@site/docs/README.md",
               "sourceDirName": ".",
               "slug": "/",
@@ -1125,7 +1125,7 @@
               "sidebarPosition": 1,
               "frontMatter": {
                 "sidebar_position": 1,
-                "description": "Spark闪闪团队出品：ChatGPT 从0到1 系统性学习资料汇总"
+                "description": "ChatGPT 从入门到收益资料汇总"
               },
               "sidebar": "tutorialSidebar",
               "next": {

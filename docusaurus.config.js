@@ -6,9 +6,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "ChatGPT 从0到1 系统性学习",
+  title: "ChatGPT 从入门到收益",
   tagline:
-    "加入我们的 ChatGPT 社区，从 0 到 1 系统性学习，创建中文互联网最全面、最友好的 AI 学习文档，让 AI 改善生活和工作变得更加容易。",
+    "零基础学ChatGPT，从0-1轻松掌握AI技能，开启未来新体验",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
